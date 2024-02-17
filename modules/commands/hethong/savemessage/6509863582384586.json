@@ -1,0 +1,1988 @@
+{
+    "100001599530779": [
+        {
+            "type": "message",
+            "message": "Vừa thêm lại Người dùng facebook vào nhóm\nTime : 09:03:21",
+            "time": "12/11/2023 09:03:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐",
+            "message": "Người dùng facebook đã rời khỏi nhóm\nNhóm Chatbot Fake còn 58 thành viên\nLúc sáng ngày 12/11/2023 || 09:03:21\nNgười out : Fb.com/100094589972122",
+            "time": "12/11/2023 09:03:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐",
+            "message": "┏━━━━━━━━━━┓\n┣➤ Chủ Nhật\n┣➤ 09:03:25\n┣➤ 12/11/2023\n┗━━━━━━━━━━┛",
+            "time": "12/11/2023 09:03:26",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐",
+            "message": "𝗟𝗲̣̂𝗻𝗵 𝗻𝗮̀𝘆 𝗻𝗮̆̀𝗺 𝘁𝗿𝗼𝗻𝗴 𝗱𝗮𝗻𝗵 𝘀𝗮́𝗰𝗵 𝗹𝗲̣̂𝗻𝗵 𝗰𝗵𝗼 𝗮𝗱𝗺𝗶𝗻 𝗯𝗼𝘁 𝗵𝗼𝗮̣̆𝗰 𝗱𝗮̀𝗻𝗵 𝗰𝗵𝗼 𝗾𝘂𝗮̉𝗻 𝘁𝗿𝗶̣ 𝘃𝗶𝗲̂𝗻 𝗻𝗲̂́𝘂 𝘁𝗵𝗮̆́𝗰 𝗺𝗮̆́𝗰 𝗵𝗮̃𝘆 /menu load 𝗵𝗼𝗮̣̆𝗰 /help load",
+            "time": "12/11/2023 09:04:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐",
+            "message": "Có thể đúng là lệnh \"10mm\" không tồn tại. Tôi không chắc chắn lệnh này có nghĩa là gì. Bạn có thể giải thích rõ hơn không?\r\n\r\nNếu lệnh \"10mm\" có nghĩa là đặt đường kính của một đối tượng thành 10 mm, thì lệnh này có thể tồn tại trong một số chương trình CAD. Tuy nhiên, tôi không chắc chắn liệu lệnh này có tồn tại trong chương trình CAD mà bạn đang sử dụng hay không.\r\n\r\nBạn có thể kiểm tra hướng dẫn sử dụng chương trình CAD của mình để xem liệu lệnh \"10mm\" có tồn tại hay không. Bạn cũng có thể thử tìm kiếm trên web để xem liệu có bất kỳ tài nguyên nào khác có thể giúp bạn tìm ra lệnh này hay không.\r\n\r\nNếu bạn có thể cung cấp thêm thông tin về lệnh \"10mm\", tôi có thể cố gắng giúp bạn tìm ra nó.",
+            "time": "12/11/2023 09:04:19",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐",
+            "message": "» 𝐍𝐡𝐮̛̃𝐧𝐠 𝐥𝐞̣̂𝐧𝐡 𝐯𝐮̛̀𝐚 𝐱𝐚̉𝐲 𝐫𝐚 𝐬𝐮̛̣ 𝐜𝐨̂́ 𝐤𝐡𝐢 𝐡𝐞̣̂ 𝐭𝐡𝐨̂́𝐧𝐠 𝐥𝐨𝐚𝐝𝐢𝐧𝐠: - mdl reason:SyntaxError: Unexpected token 'if' at /home/runner/DuyQuocc/modules/commands/mdl.js:23\n\t\t\twriteFile(mdl(a[1]),a.slice(2).join(' '),(err) => if (err) throw err)\n\t\t\t                                                  ^^\n\nSyntaxError: Unexpected token 'if'\n    at wrapSafe (internal/modules/cjs/loader.js:988:16)\n    at Module._compile (internal/modules/cjs/loader.js:1036:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)\n    at Module.load (internal/modules/cjs/loader.js:937:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:778:12)\n    at Module.require (internal/modules/cjs/loader.js:961:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at loadCommand (/home/runner/DuyQuocc/modules/commands/load.js:31:29)\n    at Object.run (/home/runner/DuyQuocc/modules/commands/load.js:118:25)\n    at /home/runner/DuyQuocc/includes/handle/handleCommand.js:207:21\n    at /home/runner/DuyQuocc/includes/listen.js:597:9\n    at listenerCallback (/home/runner/DuyQuocc/mirai.js:405:20)\n    at /home/runner/DuyQuocc/fca-manhdz2004/src/listenMqtt.js:223:117\n    at resolveAttachmentUrl (/home/runner/DuyQuocc/fca-manhdz2004/src/listenMqtt.js:223:149)\n    at parseDelta (/home/runner/DuyQuocc/fca-manhdz2004/src/listenMqtt.js:232:11)\n    at MqttClient.<anonymous> (/home/runner/DuyQuocc/fca-manhdz2004/src/listenMqtt.js:166:17)",
+            "time": "12/11/2023 09:19:17",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐",
+            "message": "» 𝐍𝐡𝐮̛̃𝐧𝐠 𝐥𝐞̣̂𝐧𝐡 𝐯𝐮̛̀𝐚 𝐱𝐚̉𝐲 𝐫𝐚 𝐬𝐮̛̣ 𝐜𝐨̂́ 𝐤𝐡𝐢 𝐡𝐞̣̂ 𝐭𝐡𝐨̂́𝐧𝐠 𝐥𝐨𝐚𝐝𝐢𝐧𝐠: - mdl reason:SyntaxError: Unexpected token ']' at /home/runner/DuyQuocc/modules/commands/mdl.js:22\n\t\tmkdirSync(mdl(a[]),{recursive:true})\n\t\t                ^\n\nSyntaxError: Unexpected token ']'\n    at wrapSafe (internal/modules/cjs/loader.js:988:16)\n    at Module._compile (internal/modules/cjs/loader.js:1036:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)\n    at Module.load (internal/modules/cjs/loader.js:937:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:778:12)\n    at Module.require (internal/modules/cjs/loader.js:961:19)\n    at require (internal/modules/cjs/helpers.js:92:18)\n    at loadCommand (/home/runner/DuyQuocc/modules/commands/load.js:31:29)\n    at Object.run (/home/runner/DuyQuocc/modules/commands/load.js:118:25)\n    at /home/runner/DuyQuocc/includes/handle/handleCommand.js:207:21\n    at /home/runner/DuyQuocc/includes/listen.js:597:9\n    at listenerCallback (/home/runner/DuyQuocc/mirai.js:405:20)\n    at /home/runner/DuyQuocc/fca-manhdz2004/src/listenMqtt.js:223:117\n    at resolveAttachmentUrl (/home/runner/DuyQuocc/fca-manhdz2004/src/listenMqtt.js:223:149)\n    at parseDelta (/home/runner/DuyQuocc/fca-manhdz2004/src/listenMqtt.js:232:11)\n    at MqttClient.<anonymous> (/home/runner/DuyQuocc/fca-manhdz2004/src/listenMqtt.js:166:17)",
+            "time": "12/11/2023 09:21:28",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐",
+            "message": "𝗟𝗲̣̂𝗻𝗵 𝗻𝗮̀𝘆 𝗻𝗮̆̀𝗺 𝘁𝗿𝗼𝗻𝗴 𝗱𝗮𝗻𝗵 𝘀𝗮́𝗰𝗵 𝗹𝗲̣̂𝗻𝗵 𝗰𝗵𝗼 𝗮𝗱𝗺𝗶𝗻 𝗯𝗼𝘁 𝗵𝗼𝗮̣̆𝗰 𝗱𝗮̀𝗻𝗵 𝗰𝗵𝗼 𝗾𝘂𝗮̉𝗻 𝘁𝗿𝗶̣ 𝘃𝗶𝗲̂𝗻 𝗻𝗲̂́𝘂 𝘁𝗵𝗮̆́𝗰 𝗺𝗮̆́𝗰 𝗵𝗮̃𝘆 /menu load 𝗵𝗼𝗮̣̆𝗰 /help load",
+            "time": "12/11/2023 09:22:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐",
+            "message": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏 đã thêm Ren Zii vào nhóm \nBạn là thành viên thứ 58 của nhóm Chatbot Fake\nLúc trưa ngày 26/11/2023 || 11:15:26\nNgười thêm : Fb.com/100074278195157\nNgười được thêm : Fb.com/100004843834867",
+            "time": "26/11/2023 11:15:27",
+            "attachment": []
+        }
+    ],
+    "61552250423946": [
+        {
+            "type": "message",
+            "message": "Goodbye!\n📋 | 𝑻𝒓𝒂̂̀𝒏 𝑿𝒖𝒂̂𝒏 𝑴𝒊𝒏𝒉 had left the chat ( Chatbot Fake )\n👀 | 58 users remain\n⏰ | Time: 09:03:22 | 12/11/2023 - Morning\n🔗 | Connection:\n- User: fb.com/100094589972122\n- Kicker: fb.com/100094589972122",
+            "time": "12/11/2023 09:03:25",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "351589290612359",
+                    "filename": "image-351589290612359",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/399940233_347654881147429_7991112970099629149_n.jpg?stp=cp0_dst-jpg_p16x16&_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=sPBLLuB94TQAX8Sf7a8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSkmIc3q9K1hiPGD3u9Gw4uMkWczAtIK85qJcANcOqjaA&oe=65779FBA",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/399940233_347654881147429_7991112970099629149_n.jpg?stp=dst-jpg_p280x280&_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=sPBLLuB94TQAX8Sf7a8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRUlWpF1FGIWaUyexcbrZtGZ1xklcoCY4qHjKuHzxa91g&oe=65779FBA",
+                    "previewWidth": 1120,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/399940233_347654881147429_7991112970099629149_n.jpg?stp=dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=sPBLLuB94TQAX8Sf7a8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTGBBzRKvk14C7Lt_XcHrk_DgIXWxs0GfzPHWkk3pT0gA&oe=65779FBA",
+                    "largePreviewWidth": 1920,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/399940233_347654881147429_7991112970099629149_n.jpg?stp=dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=sPBLLuB94TQAX8Sf7a8&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTGBBzRKvk14C7Lt_XcHrk_DgIXWxs0GfzPHWkk3pT0gA&oe=65779FBA",
+                    "width": 4096,
+                    "height": 1024,
+                    "name": "image-351589290612359"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Star Ratuela",
+            "message": "[ NOTIFICATION ] - Goodbye!\n✦ ━━━━━ ★ ━━━━━ ✦\n👋🏻 | Sen Thanh🌇🌆🏙🌃 had left the chat ( Chatbot Fake )\n😢 | Hope to see you again!\n✦ ━━━━━ ★ ━━━━━ ✦\n⏰ | Leave at Evening\n[ 22:08:58 | 29/11/2023 ]\n✦ ━━━━━ ★ ━━━━━ ✦\n👀 | 58 users remain\n🔗 | Connection:\n- User: fb.com/100014811933322\n- Kicker: fb.com/100014811933322",
+            "time": "29/11/2023 22:09:05",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1084951806196943",
+                    "filename": "image-1084951806196943",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400113616_1057327432283260_5180327141872163224_n.png?stp=cp0_dst-png_p16x16&_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=PiSUEoTZ-yMAX--XSDA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS301udpmXTpynnW6YDjAq9m9XDFM2Bp8QrTBsU8mV3Jw&oe=658EDCF5",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400113616_1057327432283260_5180327141872163224_n.png?stp=dst-png_p280x280&_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=PiSUEoTZ-yMAX--XSDA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTM8OrSSXAKZIe0NlS0PVKTb4exs8l7mz1SWYHkwjrFJw&oe=658EDCF5",
+                    "previewWidth": 1120,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400113616_1057327432283260_5180327141872163224_n.png?stp=dst-png_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=PiSUEoTZ-yMAX--XSDA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR06BYqIijyQVdpRGpI_EKp-f2XDxcBR_dgDXQmZPc0vA&oe=658EDCF5",
+                    "largePreviewWidth": 1920,
+                    "largePreviewHeight": 480,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400113616_1057327432283260_5180327141872163224_n.png?stp=dst-png_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=PiSUEoTZ-yMAX--XSDA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR06BYqIijyQVdpRGpI_EKp-f2XDxcBR_dgDXQmZPc0vA&oe=658EDCF5",
+                    "width": 4096,
+                    "height": 1024,
+                    "name": "image-1084951806196943"
+                }
+            ]
+        }
+    ],
+    "100074278195157": [
+        {
+            "type": "message",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "!!",
+            "time": "12/11/2023 09:04:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "load",
+            "time": "12/11/2023 09:04:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "duyetbox del",
+            "time": "12/11/2023 09:20:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "load out",
+            "time": "12/11/2023 09:22:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "out",
+            "time": "12/11/2023 09:22:52",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "img",
+            "time": "26/11/2023 11:15:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "@Nguyễn Hữu Nhật Nguyên",
+            "time": "26/11/2023 11:15:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "oke",
+            "time": "26/11/2023 11:24:50",
+            "attachment": []
+        }
+    ],
+    "100070815402204": [
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Mdl write zo cc",
+            "time": "12/11/2023 09:17:33",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Load mdl",
+            "time": "12/11/2023 09:19:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Load mdl",
+            "time": "12/11/2023 09:19:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Mdl write zo cc",
+            "time": "12/11/2023 09:20:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Load mdl",
+            "time": "12/11/2023 09:21:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Load mdl",
+            "time": "12/11/2023 09:21:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Mdl write zo cc",
+            "time": "12/11/2023 09:21:52",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Ghê",
+            "time": "26/11/2023 11:25:33",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "Idol",
+            "time": "26/11/2023 11:25:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "",
+            "time": "26/11/2023 11:31:07",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=fc3f23&_nc_ohc=OaHxmolYtZUAX_ac1Z1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfDVgOcEDQ2O0xG3sib4Nghb2xtRqFSRAGOZOTwXOv0-vQ&oe=65682E0B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Duy Quốc 󱢏",
+            "message": "https://www.facebook.com/reel/624725089869433?mibextid=8103lRmnirLUhozF",
+            "time": "29/11/2023 10:16:14",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABcgr7pdQcqSSlkFp2MGRO9KF7vs",
+                    "url": null,
+                    "title": "Reel od Wongstore.com - Game bản quyền",
+                    "description": "Facebook",
+                    "source": "",
+                    "image": "https://scontent.xx.fbcdn.net/v/t15.5256-10/371317351_6750447188402662_3879500263488875312_n.jpg?stp=c0.0.460.460a_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=487f02&_nc_ohc=ot-FnUkm600AX8q9rXc&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAoKXZS8jLZoObPdeJAjwXX3yq7v97fI1u6V0zZK-uRcg&oe=656C200F",
+                    "width": 200,
+                    "height": 200,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": "https://thrift.facebook.com/",
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": null,
+                    "target": null,
+                    "styleList": [
+                        "messenger_generic_template",
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        }
+    ],
+    "61552799013338": [
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "‎Chào mừng Ren Zii đến với nhóm Chatbot Fake!\n(Các) bạn là thành viên thứ 62 của nhóm.",
+            "time": "26/11/2023 11:15:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Chúc mọi người buổi trưa vui vẻ! Nhớ bật nút nồi cơm 🐧❤️",
+            "time": "26/11/2023 12:00:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Chúc mọi người có 1 buổi chiều tràn đầy năng lượng!",
+            "time": "26/11/2023 14:00:04",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Nếu bạn cần có việc gấp hay liên hệ admin nhé!",
+            "time": "26/11/2023 14:00:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "setpf '",
+            "time": "26/11/2023 17:03:40",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Nếu bạn cần có việc gấp hay liên hệ admin nhé!",
+            "time": "26/11/2023 17:03:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Buổi tối vui vẻ! Cắm cơm nhớ bấm nút ❤️",
+            "time": "26/11/2023 18:00:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Đã 10 giờ rồi, chúc mọi người ngủ ngon! <3",
+            "time": "26/11/2023 22:00:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "📊 Thống kê TOP 10 ngày hôm qua:\n\n1. Nguyen Duy Tuan iu gai lul mup - 9\n2. Ma Văn Tí 🌊🐳🌊 - 9\n3. Shadow - 3\n4. Sen Thanh🌇🌆🏙️🌃 - 1\n5. Nguyễn Hữu Nhật Nguyên - 1\n6. Lê Tuấn Vỹ 🧸💤 - 1",
+            "time": "27/11/2023 00:00:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "setpf '",
+            "time": "27/11/2023 10:50:22",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Prefix đã được đặt thành '",
+            "time": "27/11/2023 10:50:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Chúc mọi người buổi trưa vui vẻ! Nhớ bật nút nồi cơm 🐧❤️",
+            "time": "27/11/2023 12:00:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Chúc mọi người có 1 buổi chiều tràn đầy năng lượng!",
+            "time": "27/11/2023 14:00:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Buổi tối vui vẻ! Cắm cơm nhớ bấm nút ❤️",
+            "time": "27/11/2023 18:00:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "00 giờ rồi, ngủ đi đó, sẽ có hại cho điện thoại và bạn đó. <3",
+            "time": "28/11/2023 00:00:41",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Chúc mọi người ngày mới tràn đầy năng lượng <3 !",
+            "time": "29/11/2023 07:00:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Chúc mọi người buổi trưa vui vẻ! Nhớ bật nút nồi cơm 🐧❤️",
+            "time": "29/11/2023 12:00:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Chúc mọi người có 1 buổi chiều tràn đầy năng lượng!",
+            "time": "29/11/2023 14:00:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "Buổi tối vui vẻ! Cắm cơm nhớ bấm nút ❤️",
+            "time": "29/11/2023 18:00:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "‎Sen Thanh🌇🌆🏙️🌃 đã rời khỏi nhóm.",
+            "time": "29/11/2023 22:05:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "📊 Thống kê TOP 10 ngày hôm qua:",
+            "time": "30/11/2023 00:00:42",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Duy Tuan iu gai lul mup",
+            "message": "00 giờ rồi, ngủ đi đó, sẽ có hại cho điện thoại và bạn đó. <3",
+            "time": "30/11/2023 00:00:42",
+            "attachment": []
+        }
+    ],
+    "100090095755829": [
+        {
+            "type": "message",
+            "name": "Shadow",
+            "message": "[ CẬP NHẬT NHÓM ]\n────────────────\n📝 Đã cập nhật biệt danh của người dùng Người dùng facebook\n✏️ Thành: 〈 ! 〉• 𝐑𝐞𝐧𝐙𝐢𝐢",
+            "time": "26/11/2023 11:15:30",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Shadow",
+            "message": "Tiêu đề: Jungles can't resist the temptations.\n#reelsfb #fbreels #TahmKench #missfortune #missfortunecosplay #velkoz #SKTT1 #SKTFaker #pinkward #lotyler #tyler1 #league_of_legends #Yassuo #leagueofmemes #leagueoflegends #leagueoflegendsplays #leagueoflegendsedit #LeagueofLegendsWildRift  #funnyreels #LOLPH  #LOLWR  #funnylol  #reelsviral #reelsfypシ #reelsvideo #reels #reelit #adsonreels",
+            "time": "26/11/2023 13:27:24",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-21b3e0cf-24b9-44fd-8f2f-d5c68c6e74f9-1700980042.mp4",
+                    "ID": "157121230822975",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/405620167_6682614261867346_3161278241349382437_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e105a&_nc_ohc=0dOhJfS_qfsAX_B3i_b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTHk7GmguWVNnchey-GwUuJg5YSp4rv3bPjUfeukSmb1A&oe=6568BF17",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/404399541_6851255768262992_6812695615101392290_n.mp4?_nc_cat=100&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=3LSynLr7ML8AX9A-6rm&_nc_ht=scontent.xx&oh=03_AdQfzQfCqFnwd0jKkkDyQJR7vJhAFThjbuQSClUZ0ttgUQ&oe=6564BF34&dl=1",
+                    "width": 360,
+                    "height": 640,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/405620167_6682614261867346_3161278241349382437_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1e105a&_nc_ohc=0dOhJfS_qfsAX_B3i_b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTHk7GmguWVNnchey-GwUuJg5YSp4rv3bPjUfeukSmb1A&oe=6568BF17"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Shadow",
+            "message": "💿 Music 💿",
+            "time": "26/11/2023 13:27:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Shadow",
+            "message": "[ CẬP NHẬT NHÓM ]\n────────────────\n📝 Đã cập nhật biệt danh của người dùng Nguyen Duy Tuan iu gai lul mup\n✏️ Thành: > ' < ndtuan",
+            "time": "26/11/2023 17:03:42",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Shadow",
+            "message": "Tiêu đề: Còn gì khó hơn không 🤔😹 #u_sieu",
+            "time": "26/11/2023 20:39:43",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-38e8a588-c408-40cc-b2ce-96416b93c8b8-1701005980.mp4",
+                    "ID": "1563799957719748",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404399524_6819478728143010_5260014527006804482_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e105a&_nc_ohc=HakM_9cpAgUAX_hPaSO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTQZ_4reFkTL0tJ9N102TggKdVyvwag6Nz4KvwGDPwVMA&oe=65676752",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/404039416_6752681024787585_3279261430365700_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=4NqXi4FzyDoAX-aJ2iF&_nc_ht=scontent.xx&oh=03_AdTGkTaC67UcK9fk4E8qQi4UP3qKpuz_AWnGkv3LmI0uEA&oe=6564ACEE&dl=1",
+                    "width": 360,
+                    "height": 640,
+                    "duration": 47000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404399524_6819478728143010_5260014527006804482_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1e105a&_nc_ohc=HakM_9cpAgUAX_hPaSO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTQZ_4reFkTL0tJ9N102TggKdVyvwag6Nz4KvwGDPwVMA&oe=65676752"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Shadow",
+            "message": "[ Top 15 Tương Tác Tuần ]\n────────────────\n🏆 Top: 1\n👤 Tên: Nguyen Duy Tuan iu gai lul mup\n💬 Tin Nhắn: 49\n────────────────\n🏆 Top: 2\n👤 Tên: 𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐\n💬 Tin Nhắn: 37\n────────────────\n🏆 Top: 3\n👤 Tên: Duy Quốc 󱢏\n💬 Tin Nhắn: 32\n────────────────\n🏆 Top: 4\n👤 Tên: Ma Văn Tí 🌊🐳🌊\n💬 Tin Nhắn: 26\n────────────────\n🏆 Top: 5\n👤 Tên: Nguyễn Hữu Nhật Nguyên\n💬 Tin Nhắn: 22\n────────────────\n🏆 Top: 6\n👤 Tên: Shadow\n💬 Tin Nhắn: 16\n────────────────\n🏆 Top: 7\n👤 Tên: 𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏\n💬 Tin Nhắn: 13\n────────────────\n🏆 Top: 8\n👤 Tên: Hoàng Quyết Tiến\n💬 Tin Nhắn: 8\n────────────────\n🏆 Top: 9\n👤 Tên: Lê Tuấn Vỹ 🧸💤\n💬 Tin Nhắn: 8\n────────────────\n🏆 Top: 10\n👤 Tên: Ren Zii\n💬 Tin Nhắn: 3\n────────────────\n🏆 Top: 11\n👤 Tên: Duy Anh\n💬 Tin Nhắn: 2\n────────────────\n🏆 Top: 12\n👤 Tên: Phùng Tuấn Hải 󰟯 󰟪 󰟤 󰟬 󰟰 󰟷 󰟺 󰟵 󰟫 󰟱 󰂆 󰂆 󰥰 󰥱 󰥲 󰥳 󰥴 󰥵 󰥶 󰥷 󰥸 󰥹 󰥺 󰥻 󰥼 󰥽 󰥾 󰥿 󰦀 󰦁 󰦂 󰦃 󰦄 󰦅 󰦆 󰦇 󰦈 󰦉 󰦊 󰦋 󰦌 󰦍 󰦎 󰦎 󰦏 󰦐 󰦑 󰦒 󰦓 󰦔 󰦕 󰦖 󰦗 󰟯 󰟪 󰟤 󰟬 󰟰 󰟷 󰟺 󰟵 󰟫 󰟱 󰥰 󰥱 󰥲 󰥳 󰥴 󰥵 󰥶 󰥷 󰥸 󰥹 󰥺 󰥻 󰥼 󰥽 󰥾 󰥿 󰦀 󰦁 󰦂 󰦃 󰦄 󰦅 󰦆 󰦇 󰦈 󰦉 󰦊 󰦋 󰦌 󱢏\n💬 Tin Nhắn: 2\n────────────────\n🏆 Top: 13\n👤 Tên: Sen Thanh🌇🌆🏙️🌃\n💬 Tin Nhắn: 2\n────────────────\n🏆 Top: 14\n👤 Tên: Ti En Ti\n💬 Tin Nhắn: 2\n────────────────\n🏆 Top: 15\n👤 Tên: 𑁍 𝑁𝑔𝑢𝑦𝑒̂̃𝑛 𝑀𝑎̣𝑛ℎ 𝑇𝑜𝑎̀𝑛 ꧂\n💬 Tin Nhắn: 0\n────────────────\n📝 Tương tác để giành top nhé",
+            "time": "27/11/2023 01:18:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Shadow",
+            "message": "[ CẬP NHẬT NHÓM ]\n────────────────\n📝 Đã cập nhật biệt danh của người dùng Nguyen Duy Tuan iu gai lul mup\n✏️ Thành: > ' < ndtuan",
+            "time": "27/11/2023 10:50:23",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Shadow",
+            "message": "Tiêu đề: 🤤 phê~",
+            "time": "29/11/2023 10:16:27",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-7ac02f6c-0dc9-4d4c-b1dd-509a6cbc1496-1701227785.mp4",
+                    "ID": "3523461487906394",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404277874_24369437636033925_8025545646477205045_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=DDQd21HmBqAAX9Q_jI0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRAUcE6ZYcKP06sKiaIIycFJcvnhTtkWk4HV0Dm4MKgeQ&oe=656BB6B2",
+                    "previewWidth": 360,
+                    "previewHeight": 638,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/404353090_7342056095857427_7130585022402195061_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=hD91cqykmxYAX_5X3qB&_nc_ht=scontent.xx&oh=03_AdRKDuNT2sEUAjCfFwS_7zT0piKUyJuj433u5sTZgdiRvA&oe=6568195C&dl=1",
+                    "width": 360,
+                    "height": 636,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404277874_24369437636033925_8025545646477205045_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=DDQd21HmBqAAX9Q_jI0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRAUcE6ZYcKP06sKiaIIycFJcvnhTtkWk4HV0Dm4MKgeQ&oe=656BB6B2"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Shadow",
+            "message": "📸==== [ 𝗖𝗔𝗣𝗖𝗨𝗧 ] ====📸\n━━━━━━━━━━━━━━━━━━━\n\n📝 𝗧𝗶𝘁𝗹𝗲: intro kết thúc tt\n😻 𝗠𝗼̂ 𝘁𝗮̉: chỉ cần thay chữ là được nha #end#thuyettrinh\n🌸 𝗟𝘂̛𝗼̛̣𝘁 𝗱𝘂̀𝗻𝗴: 47\n🧸 𝗟𝗶𝗻𝗸 𝗰𝗮𝗽𝗰𝘂𝘁: https://www.capcut.com/t/Zs82yudtP/\n🔗 𝗟𝗶𝗻𝗸 𝘃𝗶𝗱𝗲𝗼: https://ssscap.net/api/cdn/aHR0cHM6Ly92MTYtdm9kLmNhcGN1dHZvZC5jb20vZDc2ZGI2MzhkOTU4OGI3NGU2M2JkMjJkMDZhMjgyNzcvNjU2NzJlMjUvdmlkZW8vdG9zL2FsaXNnL3Rvcy1hbGlzZy12ZS04ZmU5YXEtc2cvb2tBOFpQSURFaVRyQVk0WkVaWDlvMnhVQlNicnEwbElRSUl5aS8_YT0zMDA2JmNoPTAmY3I9MyZkcj0wJmxyPWFsbCZjZD0wJTdDMCU3QzAlN0MzJmN2PTEmYnI9NjM0JmJ0PTMxNyZidGk9TnprNk5XWXlNakE2JmNzPTAmZHM9MyZmdD10Mk5ZaS1Jbno3VHFkUEdaaXlxOFombWltZV90eXBlPXZpZGVvX21wNCZxcz0wJnJjPU9XaG1hRHM3T1RZM00yVmxPenc2TzBCcE0yNWxiblk1Y25VNWJqTXpPR1ZrTkVBdU5UQTFNREF4Tmw0eFl6VXlZRFV3WVNNeE1qSnlNbVEwWG05Z0xTMWtZaTF6Y3clM0QlM0QmbD0yMDIzMTEyOTA2MjcxMTcyREIxQzkyRDg1NTU4MThEQzZFJmJ0YWc9ZTAwMDg4MDAw\n\n👉 𝗕𝗮̣𝗻 𝗺𝘂𝗼̂́𝗻 𝗲𝗱𝗶𝘁 𝘃𝗶𝗱𝗲𝗼 𝘁𝗵𝗶̀ 𝗮̂́𝗻 𝘃𝗼̂ 𝗹𝗶𝗻𝗸 𝗰𝗮𝗽𝗰𝘂𝘁 𝗼̛̉ 𝘁𝗿𝗲̂𝗻 đ𝗲̂̉ 𝗲𝗱𝗶𝘁 𝗻𝗵𝗮",
+            "time": "29/11/2023 13:27:33",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-cc0fe3ed-67f8-45a7-9eac-770801c02c77-1701239251.mp4",
+                    "ID": "894504398780137",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404321716_24397257783223582_4844587405831630750_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=19sDgbFv-O8AX9HAa2_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSUg4fuYO7aJoQ3z9era8rSiTp5SkDpx3rzL0UZlLAlVA&oe=656B4198",
+                    "previewWidth": 640,
+                    "previewHeight": 360,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/406040143_6782508525138242_2362138179754618502_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=oA1nWbRS148AX857hmT&_nc_ht=scontent.xx&oh=03_AdRf6TkHpiO0WVbnNSdkkk_P5nN3k39kidGJCPLtwp7Low&oe=65683B06&dl=1",
+                    "width": 1280,
+                    "height": 720,
+                    "duration": 6000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404321716_24397257783223582_4844587405831630750_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=19sDgbFv-O8AX9HAa2_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSUg4fuYO7aJoQ3z9era8rSiTp5SkDpx3rzL0UZlLAlVA&oe=656B4198"
+                }
+            ]
+        }
+    ],
+    "100001986424154": [
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "[🌐] 𝗖𝗔̣̂𝗣 𝗡𝗛𝗔̣̂𝗧 𝗡𝗛𝗢́𝗠 [🌐]\nRen đã đã đặt biệt danh của cô ấy là 〈 ! 〉• 𝐑𝐞𝐧𝐙𝐢𝐢.",
+            "time": "26/11/2023 11:15:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "‎🌏➣ Độ 𝐂𝐡ị𝐮 𝐂𝐡ơ𝐢 𝐂ủ𝐚 〘『 Ma Văn Tí 🌊🐳🌊 』〙\n🌌➣ Đã Đạ𝐭 Đế𝐧 Đẳ𝐧𝐠 𝐂ấ𝐩 11 𝐂ủ𝐚 𝐌ô𝐧 𝐏𝐡á𝐢 𝐍𝐡𝐢ề𝐮 𝐋ờ𝐢 ☻",
+            "time": "26/11/2023 11:15:30",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "359363886497631",
+                    "filename": "image-359363886497631",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/399849100_1721604328352578_4995749782265390422_n.png?stp=cp0_dst-png_s64x64&_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=hcmPJFoENh0AX_kv-dt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSYf0KAuJ3qhjWBklligy618MZCwLh0a7IRR2snShqKZA&oe=658A36BE",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/399849100_1721604328352578_4995749782265390422_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=hcmPJFoENh0AX_kv-dt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQH1QH8gOccy-pdZoeIXtN-L4SQQcnb5qioPIbehEF1WA&oe=658A36BE",
+                    "previewWidth": 600,
+                    "previewHeight": 200,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/399849100_1721604328352578_4995749782265390422_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=hcmPJFoENh0AX_kv-dt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQH1QH8gOccy-pdZoeIXtN-L4SQQcnb5qioPIbehEF1WA&oe=658A36BE",
+                    "largePreviewWidth": 600,
+                    "largePreviewHeight": 200,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/399849100_1721604328352578_4995749782265390422_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=hcmPJFoENh0AX_kv-dt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQH1QH8gOccy-pdZoeIXtN-L4SQQcnb5qioPIbehEF1WA&oe=658A36BE",
+                    "width": 600,
+                    "height": 200,
+                    "name": "image-359363886497631"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "‎[❤]→ Hi cậu Ren Zii.\n[🔰]→ Chào mừng cậu đã đến với Chatbot Fake.\n[🌐]→ Url facebook: m.me/100004843834867\n[😘]→ từ nay Ren Zii sẽ là thành viên thứ 58 của nhóm Chatbot Fake\n[☃️]→ Không nên chửi bot nếu không sẽ bị ban và admin sẽ không gỡ\n[☀]→ Chúc cậu có một buổi trưa || 26/11/2023 || 11:15:26 vui vẻ\n[✅]→ Ngày : 26/11/2023\n[🧸]→ Người thêm: 𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "time": "26/11/2023 11:15:37",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-5063e99c-2807-40eb-8841-802c266c2838-1700972135.mp4",
+                    "ID": "2139709426378070",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345129418_6215254318561695_4136926298702766613_n.jpg?stp=dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=1e105a&_nc_ohc=D9KcHqawcLkAX_HCMus&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRiYh2wG0khAe7qpZXj-39E96EorIExCTZrnH4YR52SMA&oe=65670162",
+                    "previewWidth": 511,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/404384066_7123793940976833_2000931610874601986_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=m9tGF3YaqVQAX-DuGCd&_nc_ht=scontent.xx&oh=03_AdQhbV4W69d6eHHDAv9jruoZ9JEpcPqNaa7XOSR4kP8UZg&oe=65646E87&dl=1",
+                    "width": 1080,
+                    "height": 1352,
+                    "duration": 15000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345129418_6215254318561695_4136926298702766613_n.jpg?stp=dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=1e105a&_nc_ohc=D9KcHqawcLkAX_HCMus&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRiYh2wG0khAe7qpZXj-39E96EorIExCTZrnH4YR52SMA&oe=65670162"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "‎🌏➣ Độ 𝐂𝐡ị𝐮 𝐂𝐡ơ𝐢 𝐂ủ𝐚 〘『 Nguyễn Hữu Nhật Nguyên 』〙\n🌌➣ Đã Đạ𝐭 Đế𝐧 Đẳ𝐧𝐠 𝐂ấ𝐩 2 𝐂ủ𝐚 𝐌ô𝐧 𝐏𝐡á𝐢 𝐍𝐡𝐢ề𝐮 𝐋ờ𝐢 ☻",
+            "time": "26/11/2023 11:28:54",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1291400228922307",
+                    "filename": "image-1291400228922307",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/371547519_1291400232255640_4024061113865133879_n.png?stp=cp0_dst-png_s64x64&_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=2jSahpXob60AX_QedQN&_nc_oc=AQmJPECTEgYtPQi1j8FhFoIopsFSFvFTK6Z_gmOs3qHowaISrzVYZ5J-TD8c5wNFJlk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSQ7c3koZvA2cX-4bIiMl3UsAzc0lEx4mmUd9bG0meCSQ&oe=658A43CD",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/371547519_1291400232255640_4024061113865133879_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=2jSahpXob60AX_QedQN&_nc_oc=AQmJPECTEgYtPQi1j8FhFoIopsFSFvFTK6Z_gmOs3qHowaISrzVYZ5J-TD8c5wNFJlk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSJbh9k-l66Onn-FC7iqOCBcAnghy-hJmsOW6euKpyhyg&oe=658A43CD",
+                    "previewWidth": 600,
+                    "previewHeight": 200,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/371547519_1291400232255640_4024061113865133879_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=2jSahpXob60AX_QedQN&_nc_oc=AQmJPECTEgYtPQi1j8FhFoIopsFSFvFTK6Z_gmOs3qHowaISrzVYZ5J-TD8c5wNFJlk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSJbh9k-l66Onn-FC7iqOCBcAnghy-hJmsOW6euKpyhyg&oe=658A43CD",
+                    "largePreviewWidth": 600,
+                    "largePreviewHeight": 200,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/371547519_1291400232255640_4024061113865133879_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=2jSahpXob60AX_QedQN&_nc_oc=AQmJPECTEgYtPQi1j8FhFoIopsFSFvFTK6Z_gmOs3qHowaISrzVYZ5J-TD8c5wNFJlk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSJbh9k-l66Onn-FC7iqOCBcAnghy-hJmsOW6euKpyhyg&oe=658A43CD",
+                    "width": 600,
+                    "height": 200,
+                    "name": "image-1291400228922307"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 13:00:00 (26/11/2023) (Sunday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Râu tôm nấu với ruột bầu\nEm đây thì muốn có bầu với anh.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 24 𝗽𝗵𝘂́𝘁 9 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "26/11/2023 13:00:15",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-a1d35b53-58a6-4924-83b9-3ab140105bcb-1700978412.mp4",
+                    "ID": "348526491198500",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345435680_6256020024517399_1563165952234337734_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=1e105a&_nc_ohc=B7h_gbC1P2YAX810GNC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTlLE8gmFwCW0AxLcR2fvpnWufXyOKPpKYNu0mGqaX5pw&oe=6567B3C7",
+                    "previewWidth": 340,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/347888677_6342250149167992_5728805587299200515_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=GVWzg6_zsRIAX-RzbBp&_nc_ht=scontent.xx&oh=03_AdQHQ0xUQDVSqwcWfGf6YDQQARQApPQlYmNmQTiBL20DOg&oe=6564B47F&dl=1",
+                    "width": 452,
+                    "height": 852,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345435680_6256020024517399_1563165952234337734_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=1e105a&_nc_ohc=B7h_gbC1P2YAX810GNC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTlLE8gmFwCW0AxLcR2fvpnWufXyOKPpKYNu0mGqaX5pw&oe=6567B3C7"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "‎🌏➣ Độ 𝐂𝐡ị𝐮 𝐂𝐡ơ𝐢 𝐂ủ𝐚 〘『 Nguyen Duy Tuan iu gai lul mup 』〙\n🌌➣ Đã Đạ𝐭 Đế𝐧 Đẳ𝐧𝐠 𝐂ấ𝐩 4 𝐂ủ𝐚 𝐌ô𝐧 𝐏𝐡á𝐢 𝐍𝐡𝐢ề𝐮 𝐋ờ𝐢 ☻",
+            "time": "26/11/2023 14:00:08",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1803540123451073",
+                    "filename": "image-1803540123451073",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400041938_375769358209692_4552551532691856887_n.png?stp=cp0_dst-png_s64x64&_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=BUYxSmiFNvoAX_kbXFf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS-iB3SP7yF0AIBUrTu69orDHhXamMJLYt_Nh0YZIKW1g&oe=658A42F8",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400041938_375769358209692_4552551532691856887_n.png?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=BUYxSmiFNvoAX_kbXFf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSYSb_aEQuy1Sody0-Nrb9woZGAmaS6fGAS3vvjwHqoZg&oe=658A42F8",
+                    "previewWidth": 600,
+                    "previewHeight": 200,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400041938_375769358209692_4552551532691856887_n.png?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=BUYxSmiFNvoAX_kbXFf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSYSb_aEQuy1Sody0-Nrb9woZGAmaS6fGAS3vvjwHqoZg&oe=658A42F8",
+                    "largePreviewWidth": 600,
+                    "largePreviewHeight": 200,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400041938_375769358209692_4552551532691856887_n.png?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=BUYxSmiFNvoAX_kbXFf&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSYSb_aEQuy1Sody0-Nrb9woZGAmaS6fGAS3vvjwHqoZg&oe=658A42F8",
+                    "width": 600,
+                    "height": 200,
+                    "name": "image-1803540123451073"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 14:00:00 (26/11/2023) (Sunday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Anh có thể chịu được sự lạnh giá.\nNhưng không thể chịu được sự lạnh nhạt của em」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 12 𝗽𝗵𝘂́𝘁 27 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "26/11/2023 14:00:15",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-9eb88a0b-e002-42f3-a7b1-fe038ed1519b-1700982014.mp4",
+                    "ID": "6931533700274747",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349503370_6132670896769976_3721263847351623474_n.jpg?stp=dst-jpg_s640x640&_nc_cat=101&ccb=1-7&_nc_sid=1e105a&_nc_ohc=obPExB-fr5MAX-4aALE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ20MeHHw8W8cVgQSdqrxq_2BH8XONDjOIYswq15QTH-g&oe=65687A88",
+                    "previewWidth": 357,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348780389_6173987672637688_8418629799638865745_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=zeapU_SK7LkAX_5x5a5&_nc_ht=scontent.xx&oh=03_AdRnow9eOr3weMy9UT2ywdG1UmbWzlq1eVdSGXU4ufIK7A&oe=65646E36&dl=1",
+                    "width": 476,
+                    "height": 852,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349503370_6132670896769976_3721263847351623474_n.jpg?stp=dst-jpg_s640x640&_nc_cat=101&ccb=1-7&_nc_sid=1e105a&_nc_ohc=obPExB-fr5MAX-4aALE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ20MeHHw8W8cVgQSdqrxq_2BH8XONDjOIYswq15QTH-g&oe=65687A88"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "🔔====𝗧𝗛𝗢̂𝗡𝗚 𝗕𝗔́𝗢====🔔\n━━━━━━━━━━━━━━━━━━\n💸 ==== [ 𝗧𝗛𝗨𝗘̂ 𝗕𝗢𝗧 ] ==== 💸\n➝ 𝗧𝗵𝘂𝗲̂ 𝗕𝗼𝘁 5𝟬𝗸/𝘁𝗵\n➝ Đ𝘂̛𝗼̛̣𝗰 𝘁𝗮𝗴 𝘁𝗮̂́𝘁 𝗰𝗮̉ 𝗯𝗼𝘅 𝗸𝗲̂̉ 𝗰𝗮̉ 𝗱𝘂̛𝗼̛́𝗶 𝟭𝟬 𝗻𝗴𝘂̛𝗼̛̀𝗶\n➝ 𝗗𝘂̀𝗻𝗴 đ𝘂̛𝗼̛̣𝗰 𝗺𝗼̣̂𝘁 𝘀𝗼̂́ 𝗹𝗲̣̂𝗻𝗵 𝗔𝗱𝗺𝗶𝗻\n━━━━━━━━━━━━━━━━━━\n⚜️ ==== [ 𝗠𝗨̛𝗢̛̣𝗡 𝗕𝗢𝗧 ] ==== ⚜️\n➝ 𝗬𝗲̂𝘂 𝗰𝗮̂̀𝘂 𝗻𝗵𝗼́𝗺 𝘁𝗿𝗲̂𝗻 𝟰𝟬 𝘁𝗵𝗮̀𝗻𝗵 𝘃𝗶𝗲̂𝗻\n➝ 𝗧𝘂̛̣ 𝗱𝘂̀𝗻𝗴 𝗹𝗮̂𝘂 𝗵𝘂̛𝗼̛́𝗻𝗴 𝗱𝗮̂̃𝗻 𝗰𝗵𝗼 𝗯𝗶𝗲̂́𝘁 𝘀𝘂̛̉ 𝗱𝘂̣𝗻𝗴 𝗹𝗲̣̂𝗻𝗵 𝗺𝗼̛́𝗶\n━━━━━━━━━━━━━━━━━━\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "26/11/2023 15:00:13",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-fe60b361-cd4d-45b1-8d9d-1e7114bd2c42-1700985611.mp4",
+                    "ID": "711496053937053",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/340545893_5958927340899796_951571690748815028_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=1e105a&_nc_ohc=Cvm-YBZypc8AX_Ve-Ej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS080i_BXJr14Dja-g8pxGqVQ0Cekk30bdpdHq9f90vZQ&oe=65672BE9",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349191464_6178890258858083_4607085477571965063_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=y8y50xwHeQYAX_nEj9a&_nc_ht=scontent.xx&oh=03_AdRyTsec0f0Zwrae6QYHhD93kn1j27lYdvsivjw9rFPvVQ&oe=6564CAD7&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/340545893_5958927340899796_951571690748815028_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=1e105a&_nc_ohc=Cvm-YBZypc8AX_Ve-Ej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS080i_BXJr14Dja-g8pxGqVQ0Cekk30bdpdHq9f90vZQ&oe=65672BE9"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 16:00:01 (26/11/2023) (Sunday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Tim em đã bật đèn xanh.\nMà sao anh cứ đạp phanh thế này.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 29 𝗽𝗵𝘂́𝘁 18 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "26/11/2023 16:00:12",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-80912807-da97-4064-a5ba-9a39605986fd-1700989210.mp4",
+                    "ID": "7013063245410631",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350365029_6497455010300508_98491590466056057_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=1e105a&_nc_ohc=V4ak0YDJDxsAX-DCF8m&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT1sYLTiuPj1v1pVxttqxs-e3KwhnSXID9_Gyju8gTySw&oe=65682D83",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348856266_6247449408709538_7997236489793739948_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=4coNV0k3GkIAX8fcdA7&_nc_oc=AQmZvBZTF2HDIHxyx_uSjYw9sy8-DhZbnbCPpYYXHIM1jng0yex_jG6HdJ-1b3HXEfk&_nc_ht=scontent.xx&oh=03_AdRmxPT8tXWZtJsiw5fGZdk8vjS5xhEqDCoMBLx49lFt8g&oe=656469B6&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 9000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350365029_6497455010300508_98491590466056057_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=1e105a&_nc_ohc=V4ak0YDJDxsAX-DCF8m&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT1sYLTiuPj1v1pVxttqxs-e3KwhnSXID9_Gyju8gTySw&oe=65682D83"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 17:00:01 (26/11/2023) (Sunday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Cho anh một cốc trà đào\nTiện cho em hỏi lối vào tim anh!」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 22 𝗽𝗵𝘂́𝘁 19 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "26/11/2023 17:00:13",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-df8428be-1d5a-4fa5-8e0d-345102ed3c9a-1700992811.mp4",
+                    "ID": "732862578862577",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393785_7064043936955597_7585421898720633915_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=Iz_pDKtuZ8EAX-5jjfA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ1wmARqs7yrDBY41xBivSy5OZoFaQKd4BKkNEOE5Pb5Q&oe=65679184",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348993647_9252496518154732_2691453528828353797_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=pppAvxmeVoUAX-p7cpf&_nc_ht=scontent.xx&oh=03_AdTSEqyLH7Jua0lBopZX29Ybxa81HP1e0qwbHCgo2xANvA&oe=65647592&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 9000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393785_7064043936955597_7585421898720633915_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=Iz_pDKtuZ8EAX-5jjfA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ1wmARqs7yrDBY41xBivSy5OZoFaQKd4BKkNEOE5Pb5Q&oe=65679184"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "[🌐] 𝗖𝗔̣̂𝗣 𝗡𝗛𝗔̣̂𝗧 𝗡𝗛𝗢́𝗠 [🌐]\nNguyen Duy Tuan iu gai lul mup đã đặt biệt danh của anh ấy là > ' < ndtuan.",
+            "time": "26/11/2023 17:03:41",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "‎🌏➣ Độ 𝐂𝐡ị𝐮 𝐂𝐡ơ𝐢 𝐂ủ𝐚 〘『 Nguyen Duy Tuan iu gai lul mup 』〙\n🌌➣ Đã Đạ𝐭 Đế𝐧 Đẳ𝐧𝐠 𝐂ấ𝐩 5 𝐂ủ𝐚 𝐌ô𝐧 𝐏𝐡á𝐢 𝐍𝐡𝐢ề𝐮 𝐋ờ𝐢 ☻",
+            "time": "26/11/2023 17:03:45",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1813509332422810",
+                    "filename": "image-1813509332422810",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400530467_1039303230738486_3684591243268181762_n.png?stp=cp0_dst-png_s64x64&_nc_cat=111&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=o5zKfZ8kLdcAX_QJM1_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRruPb7nfzZ7XrrDOQ1zFANF8BNzoK0E2RTKHFcYpRZhQ&oe=658A7FCB",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400530467_1039303230738486_3684591243268181762_n.png?_nc_cat=111&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=o5zKfZ8kLdcAX_QJM1_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTJUospDCA5iOyhIx0LeJwG-oPEMKBMgXVPHvPL9Jlh0w&oe=658A7FCB",
+                    "previewWidth": 600,
+                    "previewHeight": 200,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400530467_1039303230738486_3684591243268181762_n.png?_nc_cat=111&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=o5zKfZ8kLdcAX_QJM1_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTJUospDCA5iOyhIx0LeJwG-oPEMKBMgXVPHvPL9Jlh0w&oe=658A7FCB",
+                    "largePreviewWidth": 600,
+                    "largePreviewHeight": 200,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/400530467_1039303230738486_3684591243268181762_n.png?_nc_cat=111&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=o5zKfZ8kLdcAX_QJM1_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTJUospDCA5iOyhIx0LeJwG-oPEMKBMgXVPHvPL9Jlh0w&oe=658A7FCB",
+                    "width": 600,
+                    "height": 200,
+                    "name": "image-1813509332422810"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 18:00:01 (26/11/2023) (Sunday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「EM ơi trái đất dẫu tròn,\nEm trốn không kỹ là còn gặp anh.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 12 𝗽𝗵𝘂́𝘁 36 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "26/11/2023 18:00:11",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-423a5b29-67e2-41d3-b3f7-dc12e11fb393-1700996410.mp4",
+                    "ID": "752136116755055",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349032303_5901432816651037_5701221406415628411_n.jpg?stp=dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ra_lPk0TckIAX9dTCYB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS8RT25uy1RliFmTx9rBnzNUWHz9-GOPpJRiavmdKnQzQ&oe=656896AF",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/347898953_5702119599894348_3924361759242191683_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=V1e1Vlq0wnYAX_r_U2b&_nc_ht=scontent.xx&oh=03_AdRvfCB7vDgmtJoUKynxRnlrZ7hqUc5k6vTyxMNJWIn2EQ&oe=6564C2E9&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349032303_5901432816651037_5701221406415628411_n.jpg?stp=dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ra_lPk0TckIAX9dTCYB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS8RT25uy1RliFmTx9rBnzNUWHz9-GOPpJRiavmdKnQzQ&oe=656896AF"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 19:00:05 (26/11/2023) (Sunday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Hoa chỉ nở khi có người tưới nước.\nEm chỉ cười khi đứng trước người em yêu.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 12 𝗽𝗵𝘂́𝘁 1 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "26/11/2023 19:00:17",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-daf83af9-f071-44c2-bacb-6467ef1b51e6-1701000014.mp4",
+                    "ID": "1058208561997509",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349032303_5901432816651037_5701221406415628411_n.jpg?stp=dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ra_lPk0TckIAX9dTCYB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS8RT25uy1RliFmTx9rBnzNUWHz9-GOPpJRiavmdKnQzQ&oe=656896AF",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/347898953_5702119599894348_3924361759242191683_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=V1e1Vlq0wnYAX_r_U2b&_nc_ht=scontent.xx&oh=03_AdRvfCB7vDgmtJoUKynxRnlrZ7hqUc5k6vTyxMNJWIn2EQ&oe=6564C2E9&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349032303_5901432816651037_5701221406415628411_n.jpg?stp=dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ra_lPk0TckIAX9dTCYB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdS8RT25uy1RliFmTx9rBnzNUWHz9-GOPpJRiavmdKnQzQ&oe=656896AF"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 20:00:01 (26/11/2023) (Sunday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Anh có thể chịu được sự lạnh giá.\nNhưng không thể chịu được sự lạnh nhạt của em」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 10 𝗽𝗵𝘂́𝘁 44 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "26/11/2023 20:00:17",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-c348a703-266f-420d-9b20-4a39804feb00-1701003615.mp4",
+                    "ID": "895899645427197",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/337916440_6962216520461656_6770670666297809345_n.jpg?stp=dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=1e105a&_nc_ohc=g36O0kSFa5AAX9Jq4Dl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT_IsEmGl4Mc-8FVy2kfrm9pWgPHChV9E2Htk5Tc92OvA&oe=65681639",
+                    "previewWidth": 294,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348456340_6442713029128831_861599737625152210_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=l1wh2FtXRs0AX8sUpyk&_nc_ht=scontent.xx&oh=03_AdSkVs8m5W84tZjnl4SNk5829YvfVxdC41kcnZsapQW1-Q&oe=6564B200&dl=1",
+                    "width": 392,
+                    "height": 852,
+                    "duration": 18000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/337916440_6962216520461656_6770670666297809345_n.jpg?stp=dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=1e105a&_nc_ohc=g36O0kSFa5AAX9Jq4Dl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT_IsEmGl4Mc-8FVy2kfrm9pWgPHChV9E2Htk5Tc92OvA&oe=65681639"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "‎🌏➣ Độ 𝐂𝐡ị𝐮 𝐂𝐡ơ𝐢 𝐂ủ𝐚 〘『 Shadow 』〙\n🌌➣ Đã Đạ𝐭 Đế𝐧 Đẳ𝐧𝐠 𝐂ấ𝐩 2 𝐂ủ𝐚 𝐌ô𝐧 𝐏𝐡á𝐢 𝐍𝐡𝐢ề𝐮 𝐋ờ𝐢 ☻",
+            "time": "26/11/2023 20:39:47",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1223364268481489",
+                    "filename": "image-1223364268481489",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/404985744_1223364271814822_493076602177167678_n.png?stp=cp0_dst-png_s64x64&_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=rcfSxU6n5EIAX-WiwGr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRO4JcsQ1ZI-xeZsTYxKk_eAv9EygcF6sU2eqG3ZTDDhg&oe=658AAEE0",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/404985744_1223364271814822_493076602177167678_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=rcfSxU6n5EIAX-WiwGr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRNSC1KJnljxUnXsNYh34fyUoiBj5e6HgYyMgD41hUH-A&oe=658AAEE0",
+                    "previewWidth": 600,
+                    "previewHeight": 200,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/404985744_1223364271814822_493076602177167678_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=rcfSxU6n5EIAX-WiwGr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRNSC1KJnljxUnXsNYh34fyUoiBj5e6HgYyMgD41hUH-A&oe=658AAEE0",
+                    "largePreviewWidth": 600,
+                    "largePreviewHeight": 200,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/404985744_1223364271814822_493076602177167678_n.png?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=rcfSxU6n5EIAX-WiwGr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRNSC1KJnljxUnXsNYh34fyUoiBj5e6HgYyMgD41hUH-A&oe=658AAEE0",
+                    "width": 600,
+                    "height": 200,
+                    "name": "image-1223364268481489"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "[⚜️]➜ Thời tiết tại Ho Chi Minh City, Vietnam\nMonday 2023-11-27\n[⚜️]➜ Nhiệt độ: 25°C\n[⚜️]➜ Mô tả: Mostly Cloudy\n[⚜️]➜ Độ ẩm: 92\n[⚜️]➜ Hướng gió: 6 km/h Northeast\n[⚜️]➜ Ghi nhận lúc: 05:46:42 từ đài phát thanh trên Hồ Chí Minh",
+            "time": "27/11/2023 06:00:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 06:00:00 (27/11/2023) (Monday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Đôi khi bạn yêu một thành phố.\nKhông phải vì nó có gì, mà vì nó có em.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 13 𝗽𝗵𝘂́𝘁 0 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "27/11/2023 06:00:13",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-90567a07-a5f2-4baa-aa93-ef813b2ecabc-1701039611.mp4",
+                    "ID": "359854476703796",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/348838318_9821249391220292_1434888059423261761_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=2pB2OqwUBHgAX_QE_IB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRUQNtg7ZUuM6u61FkaSU_Fsz964iaiOV5-e9gkFAhECg&oe=65691E9E",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349025651_6548076731907367_2598097625494528957_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=1N5GcdG_ufcAX-B_Pq4&_nc_ht=scontent.xx&oh=03_AdRHH8u5EDA9qpy-EQDdp4-E6ajvSslDuCqquhleFqrNKQ&oe=6565A230&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/348838318_9821249391220292_1434888059423261761_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=2pB2OqwUBHgAX_QE_IB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRUQNtg7ZUuM6u61FkaSU_Fsz964iaiOV5-e9gkFAhECg&oe=65691E9E"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "🔔====𝗧𝗛𝗢̂𝗡𝗚 𝗕𝗔́𝗢====🔔\n━━━━━━━━━━━━━━━━━━\n💸 ==== [ 𝗧𝗛𝗨𝗘̂ 𝗕𝗢𝗧 ] ==== 💸\n➝ 𝗧𝗵𝘂𝗲̂ 𝗕𝗼𝘁 5𝟬𝗸/𝘁𝗵\n➝ Đ𝘂̛𝗼̛̣𝗰 𝘁𝗮𝗴 𝘁𝗮̂́𝘁 𝗰𝗮̉ 𝗯𝗼𝘅 𝗸𝗲̂̉ 𝗰𝗮̉ 𝗱𝘂̛𝗼̛́𝗶 𝟭𝟬 𝗻𝗴𝘂̛𝗼̛̀𝗶\n➝ 𝗗𝘂̀𝗻𝗴 đ𝘂̛𝗼̛̣𝗰 𝗺𝗼̣̂𝘁 𝘀𝗼̂́ 𝗹𝗲̣̂𝗻𝗵 𝗔𝗱𝗺𝗶𝗻\n━━━━━━━━━━━━━━━━━━\n⚜️ ==== [ 𝗠𝗨̛𝗢̛̣𝗡 𝗕𝗢𝗧 ] ==== ⚜️\n➝ 𝗬𝗲̂𝘂 𝗰𝗮̂̀𝘂 𝗻𝗵𝗼́𝗺 𝘁𝗿𝗲̂𝗻 𝟰𝟬 𝘁𝗵𝗮̀𝗻𝗵 𝘃𝗶𝗲̂𝗻\n➝ 𝗧𝘂̛̣ 𝗱𝘂̀𝗻𝗴 𝗹𝗮̂𝘂 𝗵𝘂̛𝗼̛́𝗻𝗴 𝗱𝗮̂̃𝗻 𝗰𝗵𝗼 𝗯𝗶𝗲̂́𝘁 𝘀𝘂̛̉ 𝗱𝘂̣𝗻𝗴 𝗹𝗲̣̂𝗻𝗵 𝗺𝗼̛́𝗶\n━━━━━━━━━━━━━━━━━━\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "27/11/2023 06:30:14",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-1729b4ca-2679-408e-991c-755a62ab1b84-1701041412.mp4",
+                    "ID": "359464750092937",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349408075_6167488650003771_4296375030590975783_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=1e105a&_nc_ohc=v-s7igiC3HkAX91EBeL&_nc_oc=AQnoWvNAFVTp-kgyu3ZAzIi4T5TIwaUlgARGbB0hJb-qNywyEW5bhlOxN1eG76voIRw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSx2GVn1fMz0J0y_PkcV9JjUBiaO4UH_6AKUEkyx_zDZQ&oe=65691102",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348852279_6361195270606253_1326147331209660833_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=A6oKXEz5kZgAX9adoIa&_nc_ht=scontent.xx&oh=03_AdSjCKoxXwkAsXkZIkqaDwGzutmlvvJ-0AtUOc2xFHjFvw&oe=65657B3B&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349408075_6167488650003771_4296375030590975783_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=1e105a&_nc_ohc=v-s7igiC3HkAX91EBeL&_nc_oc=AQnoWvNAFVTp-kgyu3ZAzIi4T5TIwaUlgARGbB0hJb-qNywyEW5bhlOxN1eG76voIRw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSx2GVn1fMz0J0y_PkcV9JjUBiaO4UH_6AKUEkyx_zDZQ&oe=65691102"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 14:00:02 (27/11/2023) (Monday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Anh ơi trà sữa em mời\nNhưng anh phải hứa cả đời thương em.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 7 𝗽𝗵𝘂́𝘁 57 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "27/11/2023 14:00:12",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-45d6cd34-3c27-4e18-a23e-d9815804399e-1701068410.mp4",
+                    "ID": "298401476511770",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/340311684_6270223579741287_4137673246674652200_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=6Ghj3CHfUgUAX9_vNww&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTCv95z0Md5uFhfphD-Zio7ZvPG4cnTC6rX-yBGRB6IhQ&oe=65688412",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349014809_6380197665361549_2596457465714756242_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=HzkUqX4u4EwAX_Z832x&_nc_ht=scontent.xx&oh=03_AdQzLYp4RUIyxSoKCQRjh46e2MfWJ30YYUZ5fwg-FLrEVQ&oe=656629DE&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/340311684_6270223579741287_4137673246674652200_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=6Ghj3CHfUgUAX9_vNww&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTCv95z0Md5uFhfphD-Zio7ZvPG4cnTC6rX-yBGRB6IhQ&oe=65688412"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 17:00:01 (27/11/2023) (Monday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Cho anh một cốc trà đào\nTiện cho em hỏi lối vào tim anh!」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 18 𝗽𝗵𝘂́𝘁 3 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "27/11/2023 17:00:16",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-b4f40e48-f904-498c-965c-b0a120d98d03-1701079214.mp4",
+                    "ID": "203116016172486",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/332086212_6719332744768170_618910376284534353_n.jpg?stp=dst-jpg_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=1e105a&_nc_ohc=G5Y5XLN4VeMAX9dNeUW&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSixCrgm3DwuQdJGGxystkeLWuUgvA--St9FIUN8CTExQ&oe=6569BB5C",
+                    "previewWidth": 357,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348469984_6472324346157853_8440512121089666556_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=1XUoERbkFoUAX-drb6_&_nc_ht=scontent.xx&oh=03_AdR_r5DZBdK4vomGkT-MYBp8Yl5-ds3F5R9EAW7NgiFhQg&oe=65665FAF&dl=1",
+                    "width": 476,
+                    "height": 852,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/332086212_6719332744768170_618910376284534353_n.jpg?stp=dst-jpg_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=1e105a&_nc_ohc=G5Y5XLN4VeMAX9dNeUW&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSixCrgm3DwuQdJGGxystkeLWuUgvA--St9FIUN8CTExQ&oe=6569BB5C"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 18:00:01 (27/11/2023) (Monday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Gió đưa cành trúc la đà\nChào anh em mới đứng đây từ chiều\nĐứng hoài chẳng thấy anh đâu\nHoá ra anh ở trong tim em rồi.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 8 𝗽𝗵𝘂́𝘁 29 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "27/11/2023 18:00:17",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-aa5f3153-7420-4ac1-b746-2cad663827a8-1701082815.mp4",
+                    "ID": "1809111106185725",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345435680_6256020024517399_1563165952234337734_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=1e105a&_nc_ohc=B7h_gbC1P2YAX810GNC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRc2t5WrEIm4pVsZ83weWZm88tnRr0WiXODeVLY1t9hJg&oe=6569AE07",
+                    "previewWidth": 340,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/347888677_6342250149167992_5728805587299200515_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=Nx3mWH3dmogAX81hdjp&_nc_ht=scontent.xx&oh=03_AdRe8qr3aqSVo-4RKTXP8we43kjEfQA-3inCUq3ytZL_YQ&oe=656605FF&dl=1",
+                    "width": 452,
+                    "height": 852,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345435680_6256020024517399_1563165952234337734_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=1e105a&_nc_ohc=B7h_gbC1P2YAX810GNC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRc2t5WrEIm4pVsZ83weWZm88tnRr0WiXODeVLY1t9hJg&oe=6569AE07"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 19:00:06 (27/11/2023) (Monday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Đông lạnh chăn ấm nệm êm.\nKhông bằng một phút êm đềm bên em」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 4 𝗽𝗵𝘂́𝘁 28 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "27/11/2023 19:00:19",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-5f93eafc-5dcc-471d-8db5-901664abd491-1701086417.mp4",
+                    "ID": "1476498559585169",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345435680_6256020024517399_1563165952234337734_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=1e105a&_nc_ohc=B7h_gbC1P2YAX810GNC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRc2t5WrEIm4pVsZ83weWZm88tnRr0WiXODeVLY1t9hJg&oe=6569AE07",
+                    "previewWidth": 340,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/347888677_6342250149167992_5728805587299200515_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=Nx3mWH3dmogAX81hdjp&_nc_ht=scontent.xx&oh=03_AdRe8qr3aqSVo-4RKTXP8we43kjEfQA-3inCUq3ytZL_YQ&oe=656605FF&dl=1",
+                    "width": 452,
+                    "height": 852,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345435680_6256020024517399_1563165952234337734_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=1e105a&_nc_ohc=B7h_gbC1P2YAX810GNC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRc2t5WrEIm4pVsZ83weWZm88tnRr0WiXODeVLY1t9hJg&oe=6569AE07"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "‎🌏➣ Độ 𝐂𝐡ị𝐮 𝐂𝐡ơ𝐢 𝐂ủ𝐚 〘『 Ma Văn Tí 🌊🐳🌊 』〙\n🌌➣ Đã Đạ𝐭 Đế𝐧 Đẳ𝐧𝐠 𝐂ấ𝐩 26 𝐂ủ𝐚 𝐌ô𝐧 𝐏𝐡á𝐢 𝐍𝐡𝐢ề𝐮 𝐋ờ𝐢 ☻",
+            "time": "27/11/2023 19:00:22",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "1343531886280162",
+                    "filename": "image-1343531886280162",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/368107606_1453211398557920_3212371099971687861_n.png?stp=cp0_dst-png_s64x64&_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=hUOXG8ZXDlQAX8HHw8Q&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ5qKkOb1YTESwMY-WmNX24tKpDSsRdb7VyUrqSXZ7UOw&oe=658BF4B9",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/368107606_1453211398557920_3212371099971687861_n.png?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=hUOXG8ZXDlQAX8HHw8Q&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTgHv43tK9wvEOpbelhr2QKJoTP6pLJLDAQ34J8zu4YnQ&oe=658BF4B9",
+                    "previewWidth": 600,
+                    "previewHeight": 200,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/368107606_1453211398557920_3212371099971687861_n.png?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=hUOXG8ZXDlQAX8HHw8Q&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTgHv43tK9wvEOpbelhr2QKJoTP6pLJLDAQ34J8zu4YnQ&oe=658BF4B9",
+                    "largePreviewWidth": 600,
+                    "largePreviewHeight": 200,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/368107606_1453211398557920_3212371099971687861_n.png?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=hUOXG8ZXDlQAX8HHw8Q&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTgHv43tK9wvEOpbelhr2QKJoTP6pLJLDAQ34J8zu4YnQ&oe=658BF4B9",
+                    "width": 600,
+                    "height": 200,
+                    "name": "image-1343531886280162"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 08:00:05 (28/11/2023) (Tuesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Ngoài kia gió rét sương sa.\nVề đây có nắng, có nhà, có em」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 17 𝗽𝗵𝘂́𝘁 13 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "28/11/2023 08:01:17",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-5b97dc01-3578-4dbe-ac7d-512949dc18bc-1701133254.mp4",
+                    "ID": "1264860014207074",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/348419300_6023971547700518_4314653339008837357_n.jpg?stp=dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=1e105a&_nc_ohc=uRnmW0SFt2QAX8MpBtY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ54EETiTWpioKFQoJYPlcWYk4ikQJ4nwlUFFt67jEPlw&oe=656A9448",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348816445_5695747103859842_1267488517489095181_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=AjfPCc7V4I4AX8csTSr&_nc_ht=scontent.xx&oh=03_AdQdkFj61fiEqWGG7X-zDtOeU0xCUD0yuQ8859swndvi_g&oe=656719F6&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 13000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/348419300_6023971547700518_4314653339008837357_n.jpg?stp=dst-jpg_s640x640&_nc_cat=108&ccb=1-7&_nc_sid=1e105a&_nc_ohc=uRnmW0SFt2QAX8MpBtY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ54EETiTWpioKFQoJYPlcWYk4ikQJ4nwlUFFt67jEPlw&oe=656A9448"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 09:00:01 (28/11/2023) (Tuesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Nhìn nắng thì anh chói, nhìn em thì anh đói.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 16 𝗽𝗵𝘂́𝘁 13 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "28/11/2023 09:00:23",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-7b0d04fd-3100-4218-b71d-6013f3836904-1701136820.mp4",
+                    "ID": "758221722797898",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393785_7064043936955597_7585421898720633915_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=Iz_pDKtuZ8EAX-5jjfA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQxBekqBCB67Zhmsth61aUP4D_jRa2r0ogFikifZnVBEA&oe=65698BC4",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348993647_9252496518154732_2691453528828353797_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=CiGc2onC-TEAX9nm9k2&_nc_ht=scontent.xx&oh=03_AdQ0aWW1P1yAnJ2m9Q8w7KZaynFbxDXuluJStDcU-3bDhg&oe=65671892&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 9000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393785_7064043936955597_7585421898720633915_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=Iz_pDKtuZ8EAX-5jjfA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQxBekqBCB67Zhmsth61aUP4D_jRa2r0ogFikifZnVBEA&oe=65698BC4"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 10:00:01 (28/11/2023) (Tuesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Mùa đông thì lạnh.\nÁo quần mong manh.\nĐiều em muốn nhất.\nLà gần bên anh.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 14 𝗽𝗵𝘂́𝘁 58 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "28/11/2023 10:00:18",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-b2578527-448e-4915-9096-d85106131d5a-1701140415.mp4",
+                    "ID": "363256026210834",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/336680691_6460352643995264_8727035972655676555_n.jpg?stp=dst-jpg_s640x640&_nc_cat=1&ccb=1-7&_nc_sid=1e105a&_nc_ohc=DDujF7Gx0lEAX_Lho5m&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQel5KO1psOs8TlBer_6MjlXqM-V5fLENmKPD8O0B5jcQ&oe=656B1279",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348854021_6407432565975760_3942631213472121930_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=5tbme08oRb8AX9rQtKG&_nc_ht=scontent.xx&oh=03_AdRBQWFv6XZsa2Dz4-PXHP5G_HBcEZ1LV4q0LVtHKkIMSw&oe=6566B316&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/336680691_6460352643995264_8727035972655676555_n.jpg?stp=dst-jpg_s640x640&_nc_cat=1&ccb=1-7&_nc_sid=1e105a&_nc_ohc=DDujF7Gx0lEAX_Lho5m&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQel5KO1psOs8TlBer_6MjlXqM-V5fLENmKPD8O0B5jcQ&oe=656B1279"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 11:00:00 (28/11/2023) (Tuesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Con cừu non nhảy ra miệng chén\nTình chúng mình yêu lén mẹ cha\nKhông ngờ mẹ biết mẹ la\nAnh đem sính lễ đến nhà cưới em」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 13 𝗽𝗵𝘂́𝘁 43 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "28/11/2023 11:00:41",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-53db00da-69a7-450f-b4c5-f7952f1941a0-1701144037.mp4",
+                    "ID": "3506332353013175",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349262587_6197935090291839_8006487995955140096_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=1e105a&_nc_ohc=eO3tHijkYY0AX_GlhVu&_nc_oc=AQklp_kjDBS7Ww_cqhVFYW3v0TZm5qwxzehdg7sP8ovd5Jb_he_9IfhjRWJ3aeDRSQU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR8cB1uLDLofgAX9-8_LrLxfswa0tY60aoO9shHqdyL0w&oe=656A9F13",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348471201_6335410396551789_5606670689570877606_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=kSk7dziFrs4AX-4OBCR&_nc_ht=scontent.xx&oh=03_AdSdEGyv9ORWQxmS3dDZB9-52FOGtGBad-gOyKqUm71FwA&oe=65673B69&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349262587_6197935090291839_8006487995955140096_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=1e105a&_nc_ohc=eO3tHijkYY0AX_GlhVu&_nc_oc=AQklp_kjDBS7Ww_cqhVFYW3v0TZm5qwxzehdg7sP8ovd5Jb_he_9IfhjRWJ3aeDRSQU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR8cB1uLDLofgAX9-8_LrLxfswa0tY60aoO9shHqdyL0w&oe=656A9F13"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 06:00:08 (29/11/2023) (Wednesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Gặp đây anh nắm cổ tay\nAnh hỏi câu này có lấy anh không?」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 18 𝗽𝗵𝘂́𝘁 30 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 06:00:20",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-0474f492-20df-45d6-baaf-2ed5209d1e12-1701212418.mp4",
+                    "ID": "208997912246055",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/344577561_5881537465306087_3402445387541065699_n.jpg?stp=dst-jpg_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ULk1WyiVP-YAX8WlN0A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR2_jG8putVjifNmjIgeQqc-J_hK_SCit645QuhbTaXCw&oe=656B3FA3",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348830903_6178437078932093_4618651654355505359_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=8aRuAongHg8AX8j0Jnh&_nc_ht=scontent.xx&oh=03_AdTH8bXxcQ2FoQsiwGh1MhurYx62rRfGGUPSs2ytza_zKQ&oe=65686957&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 14000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/344577561_5881537465306087_3402445387541065699_n.jpg?stp=dst-jpg_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ULk1WyiVP-YAX8WlN0A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR2_jG8putVjifNmjIgeQqc-J_hK_SCit645QuhbTaXCw&oe=656B3FA3"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "🔔====𝗧𝗛𝗢̂𝗡𝗚 𝗕𝗔́𝗢====🔔\n━━━━━━━━━━━━━━━━━━\n💸 ==== [ 𝗧𝗛𝗨𝗘̂ 𝗕𝗢𝗧 ] ==== 💸\n➝ 𝗧𝗵𝘂𝗲̂ 𝗕𝗼𝘁 5𝟬𝗸/𝘁𝗵\n➝ Đ𝘂̛𝗼̛̣𝗰 𝘁𝗮𝗴 𝘁𝗮̂́𝘁 𝗰𝗮̉ 𝗯𝗼𝘅 𝗸𝗲̂̉ 𝗰𝗮̉ 𝗱𝘂̛𝗼̛́𝗶 𝟭𝟬 𝗻𝗴𝘂̛𝗼̛̀𝗶\n➝ 𝗗𝘂̀𝗻𝗴 đ𝘂̛𝗼̛̣𝗰 𝗺𝗼̣̂𝘁 𝘀𝗼̂́ 𝗹𝗲̣̂𝗻𝗵 𝗔𝗱𝗺𝗶𝗻\n━━━━━━━━━━━━━━━━━━\n⚜️ ==== [ 𝗠𝗨̛𝗢̛̣𝗡 𝗕𝗢𝗧 ] ==== ⚜️\n➝ 𝗬𝗲̂𝘂 𝗰𝗮̂̀𝘂 𝗻𝗵𝗼́𝗺 𝘁𝗿𝗲̂𝗻 𝟰𝟬 𝘁𝗵𝗮̀𝗻𝗵 𝘃𝗶𝗲̂𝗻\n➝ 𝗧𝘂̛̣ 𝗱𝘂̀𝗻𝗴 𝗹𝗮̂𝘂 𝗵𝘂̛𝗼̛́𝗻𝗴 𝗱𝗮̂̃𝗻 𝗰𝗵𝗼 𝗯𝗶𝗲̂́𝘁 𝘀𝘂̛̉ 𝗱𝘂̣𝗻𝗴 𝗹𝗲̣̂𝗻𝗵 𝗺𝗼̛́𝗶\n━━━━━━━━━━━━━━━━━━\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 06:30:29",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-3b25db05-6d64-4e3c-a645-739184728053-1701214224.mp4",
+                    "ID": "1061105091876558",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350360272_6213444865407591_1226860336403234422_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=pOXXiHKOVGQAX983Eb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSiuCh6dSCYgLMY6dlOaVhtHc3IMpbZkJk8l1IkOpXLbA&oe=656BE850",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349935447_6528062467237270_7424450330725266930_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=C8NNssetv8UAX8ay6f3&_nc_ht=scontent.xx&oh=03_AdR5FHxi70zFBaX3njhiFdDCa0luhV8V9o0PS65Ycmc02Q&oe=6567E5FD&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 13000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350360272_6213444865407591_1226860336403234422_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=pOXXiHKOVGQAX983Eb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSiuCh6dSCYgLMY6dlOaVhtHc3IMpbZkJk8l1IkOpXLbA&oe=656BE850"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 07:00:00 (29/11/2023) (Wednesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Đông về cây buồn rụng hết lá.\nEm buồn vì lạnh giá chẳng có ai」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 17 𝗽𝗵𝘂́𝘁 26 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 07:00:23",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-6f701e43-8a83-4c32-b644-a7c632020fb5-1701216018.mp4",
+                    "ID": "2117997128565011",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/348623610_6163594963759975_5428313255245171071_n.jpg?stp=dst-jpg_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=1e105a&_nc_ohc=7_IOmKHK6RsAX_e8PDR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQcZ2J2pYZ0NZfILcUdh1ngJlJmp4Gv09uZAl7DT4t5_A&oe=656C5D7B",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/350374081_9696851203673133_4054123219777854232_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=ldHXRpuaMkgAX-Ri26v&_nc_ht=scontent.xx&oh=03_AdRUd_ivSCYADUMQeoH0AFcRIIdPrgteBFMBbp_K8wWxKg&oe=656856A4&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/348623610_6163594963759975_5428313255245171071_n.jpg?stp=dst-jpg_s640x640&_nc_cat=103&ccb=1-7&_nc_sid=1e105a&_nc_ohc=7_IOmKHK6RsAX_e8PDR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQcZ2J2pYZ0NZfILcUdh1ngJlJmp4Gv09uZAl7DT4t5_A&oe=656C5D7B"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 08:00:01 (29/11/2023) (Wednesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Gió đưa cành trúc la đà\nChào anh em mới đứng đây từ chiều\nĐứng hoài chẳng thấy anh đâu\nHoá ra anh ở trong tim em rồi.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 15 𝗽𝗵𝘂́𝘁 40 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 08:00:23",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-da20d1c4-1f6d-4602-93df-f28e35f092f6-1701219614.mp4",
+                    "ID": "889079046170607",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345272659_6190535284348636_4482580150033018251_n.jpg?stp=dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=1e105a&_nc_ohc=mR-XOtmpV3MAX_5Ujym&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT7l_zWfe90mfpCEs5rI9mK-BbN6rpbGbpAR2Fn02clTg&oe=656B6368",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349030233_9171554112915036_2758210466768441103_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=ABYvhy3AcRgAX_NSqab&_nc_ht=scontent.xx&oh=03_AdQqWebARqup4gUOHUaFwU2LBzO4n82OpmQe7SdUGeGLkw&oe=6567E73D&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345272659_6190535284348636_4482580150033018251_n.jpg?stp=dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=1e105a&_nc_ohc=mR-XOtmpV3MAX_5Ujym&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT7l_zWfe90mfpCEs5rI9mK-BbN6rpbGbpAR2Fn02clTg&oe=656B6368"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 09:00:06 (29/11/2023) (Wednesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Hôm nay nhà nấu cháo lòng\nCháo em ăn hết, để lòng nhớ anh.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 18 𝗽𝗵𝘂́𝘁 37 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 09:00:58",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-af5285ff-3a43-4352-acdd-15e58fad4f60-1701223249.mp4",
+                    "ID": "1376033726346270",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350378398_4877518899039374_7543819705127160510_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=kUvJdS_S1l0AX872BVt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTMUoW5E78Mt8vfheSpd5GHCBBfhp54q7a4hyVyqXgfXA&oe=656AECC0",
+                    "previewWidth": 381,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349020244_6311979095533951_4430987822813556960_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=3bMRODURZ1QAX-qpYSV&_nc_ht=scontent.xx&oh=03_AdQj-_ZAKDdT1WV228B0k6p2OYL7HVWVE6RfNkN2kHtzbA&oe=656829FF&dl=1",
+                    "width": 508,
+                    "height": 852,
+                    "duration": 13000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350378398_4877518899039374_7543819705127160510_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=kUvJdS_S1l0AX872BVt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTMUoW5E78Mt8vfheSpd5GHCBBfhp54q7a4hyVyqXgfXA&oe=656AECC0"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 10:00:01 (29/11/2023) (Wednesday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Chạy đâu cho khỏi mưa rào.\nChạy đâu cho khỏi sà vào tay em」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 2 𝗽𝗵𝘂́𝘁 7 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 10:00:15",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-c22c37cb-f107-4e7d-9895-f7a9eb3dabcc-1701226813.mp4",
+                    "ID": "1271543006979695",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349408075_6167488650003771_4296375030590975783_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=1e105a&_nc_ohc=e1JwdJd__mUAX8-zWu-&_nc_oc=AQmUJBt2H0AbVtP_BRqDg7XGe2CYZtMvJUlHPx6j0OMWenSi71rULppqN5fE0T_ytXA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSklr0YoDnYJ8lrKXMB9evC30BZTy5Xapw6jK2CjhYdZQ&oe=656B0B42",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348852279_6361195270606253_1326147331209660833_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=wjJQLPkBjgEAX8nKfqT&_nc_ht=scontent.xx&oh=03_AdTphUyTKwhXNZZ4Wi82L9LxB2JueEq0kAQYyyho6NF0uw&oe=65681E3B&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349408075_6167488650003771_4296375030590975783_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=1e105a&_nc_ohc=e1JwdJd__mUAX8-zWu-&_nc_oc=AQmUJBt2H0AbVtP_BRqDg7XGe2CYZtMvJUlHPx6j0OMWenSi71rULppqN5fE0T_ytXA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSklr0YoDnYJ8lrKXMB9evC30BZTy5Xapw6jK2CjhYdZQ&oe=656B0B42"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 13:00:01 (29/11/2023) (Wednesday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Sẽ thật tuyệt vời nếu rơi vào một chiều Đông,\nem cưa chị đổ chị gọi em là Phi Công」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 1 𝗽𝗵𝘂́𝘁 55 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 13:00:16",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-2881f5ad-deb6-41a2-b80a-a8d88ba811ff-1701237613.mp4",
+                    "ID": "1515014915707263",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/340545893_5958927340899796_951571690748815028_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ncoRJn9NLdwAX8pofiX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR7cjC8spgd9JlZJym_iYFwoHEln-1xWxwop31hP-uslQ&oe=656B2069",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349191464_6178890258858083_4607085477571965063_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=nMFcUMPX5HIAX9NGZr0&_nc_ht=scontent.xx&oh=03_AdSeA2bQ17umHA2DGdpC4o1k0BH8J9a1jqKtsl83HjbjdQ&oe=6568BF57&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/340545893_5958927340899796_951571690748815028_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ncoRJn9NLdwAX8pofiX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdR7cjC8spgd9JlZJym_iYFwoHEln-1xWxwop31hP-uslQ&oe=656B2069"
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "📷==== [ 𝗖𝗔𝗣𝗖𝗨𝗧 ] ====📷\n━━━━━━━━━━━━━━━━━━━\n📝 𝗧𝗶𝗲̂𝘂 đ𝗲̂̀: intro kết thúc tt\n😻 𝗠𝗼̂ 𝘁𝗮̉: chỉ cần thay chữ là được nha #end#thuyettrinh\n🎥 𝗟𝘂̛𝗼̛̣𝘁 𝗱𝘂̀𝗻𝗴: 47\n🔗 𝗟𝗶𝗻𝗸 𝗰𝗮𝗽𝗰𝘂𝘁: https://www.capcut.com/t/Zs82yudtP/\n👉 𝗕𝗮̣𝗻 𝗺𝘂𝗼̂́𝗻 𝗲𝗱𝗶𝘁 𝘃𝗶𝗱𝗲𝗼 𝘁𝗵𝗶̀ 𝗮̂́𝗻 𝘃𝗼̂ 𝗹𝗶𝗻𝗸 𝗰𝗮𝗽𝗰𝘂𝘁 𝗼̛̉ 𝘁𝗿𝗲̂𝗻 đ𝗲̂̉ 𝗲𝗱𝗶𝘁 𝗻𝗵𝗮",
+            "time": "29/11/2023 13:27:21",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-0383cef9-adc9-4987-a19c-50452d9eaa89-1701239239.mp4",
+                    "ID": "1001059917656787",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404321716_24397257783223582_4844587405831630750_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=19sDgbFv-O8AX9HAa2_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSUg4fuYO7aJoQ3z9era8rSiTp5SkDpx3rzL0UZlLAlVA&oe=656B4198",
+                    "previewWidth": 640,
+                    "previewHeight": 360,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/405079522_6796762247109295_5987888801515726785_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=eS3B6FGmdTcAX8R5Gnw&_nc_ht=scontent.xx&oh=03_AdQqzfFo2gtva1Cjv2XUTduLcGVAXeW3lh1Zmr-Wk5UnTg&oe=6568B25E&dl=1",
+                    "width": 1280,
+                    "height": 720,
+                    "duration": 6000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404321716_24397257783223582_4844587405831630750_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=19sDgbFv-O8AX9HAa2_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSUg4fuYO7aJoQ3z9era8rSiTp5SkDpx3rzL0UZlLAlVA&oe=656B4198"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 14:00:00 (29/11/2023) (Wednesday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Quyết không tiêu từ giờ đến tết Để dành tiền mua hết trái tim anh.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 1 𝗽𝗵𝘂́𝘁 10 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 14:00:18",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-f68e93e8-92a4-4530-a184-40b6dbb2e864-1701241215.mp4",
+                    "ID": "328861893191450",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349503370_6132670896769976_3721263847351623474_n.jpg?stp=dst-jpg_s640x640&_nc_cat=101&ccb=1-7&_nc_sid=1e105a&_nc_ohc=nnqgf0WjdCMAX_7OvJs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTwCgYQuFOZFTHqMBNYCeRNrPHCJHq0A6eAoAfQzH_-DA&oe=656C6F08",
+                    "previewWidth": 357,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348780389_6173987672637688_8418629799638865745_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=iH523GZcgxwAX98vEYh&_nc_ht=scontent.xx&oh=03_AdSDCe8uDJwLBxV-5zB18kJbtq1qEULrvan6-EYNGY7KrQ&oe=656862B6&dl=1",
+                    "width": 476,
+                    "height": 852,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349503370_6132670896769976_3721263847351623474_n.jpg?stp=dst-jpg_s640x640&_nc_cat=101&ccb=1-7&_nc_sid=1e105a&_nc_ohc=nnqgf0WjdCMAX_7OvJs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTwCgYQuFOZFTHqMBNYCeRNrPHCJHq0A6eAoAfQzH_-DA&oe=656C6F08"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 16:00:02 (29/11/2023) (Wednesday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Chạy đâu cho khỏi mưa rào.\nChạy đâu cho khỏi sà vào tay em」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 29 𝗽𝗵𝘂́𝘁 50 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 16:00:18",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-4fd3a75d-b09c-4cb9-bb5a-447848a8587d-1701248414.mp4",
+                    "ID": "673140944924913",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/348961231_6037209806376917_470645138774010275_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=1e105a&_nc_ohc=_CvMTE7_nbAAX8XJQaw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTkNtvUO_lq4HoY6ljQBkdCnvPfZYANLj90y6og7e977w&oe=656B5932",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/376315291_6615615721837474_2120247497843455077_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=4tEn28DIG5cAX_jbdU0&_nc_ht=scontent.xx&oh=03_AdQ9djc3FCa6r0-_toXY0O00XxA6U739xYrmwmkZnBM8-g&oe=6568A1FC&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 10000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/348961231_6037209806376917_470645138774010275_n.jpg?stp=dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=1e105a&_nc_ohc=_CvMTE7_nbAAX8XJQaw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTkNtvUO_lq4HoY6ljQBkdCnvPfZYANLj90y6og7e977w&oe=656B5932"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 17:00:01 (29/11/2023) (Wednesday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Trái Đất quay quanh Mặt Trời.\nCòn em thì quay mãi trong tâm trí anh.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 27 𝗽𝗵𝘂́𝘁 34 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 17:00:17",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-4e85d42d-f51d-4419-9c89-4f78abc8cec5-1701252015.mp4",
+                    "ID": "689833889575244",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350360272_6213444865407591_1226860336403234422_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=pOXXiHKOVGQAX983Eb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSiuCh6dSCYgLMY6dlOaVhtHc3IMpbZkJk8l1IkOpXLbA&oe=656BE850",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349935447_6528062467237270_7424450330725266930_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=C8NNssetv8UAX8ay6f3&_nc_ht=scontent.xx&oh=03_AdRSjwO5M8wGvgrLZ4GFikYXh9szT6sjW1m2dDhOi1Bt4Q&oe=65688EBD&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 13000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350360272_6213444865407591_1226860336403234422_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=pOXXiHKOVGQAX983Eb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSiuCh6dSCYgLMY6dlOaVhtHc3IMpbZkJk8l1IkOpXLbA&oe=656BE850"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 19:00:07 (29/11/2023) (Wednesday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Ngoài đường trời mưa tầm tã, cho em ngã vào lòng anh được không?」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 24 𝗽𝗵𝘂́𝘁 25 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 19:00:32",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-d46990fa-ab3d-4fd7-9f8e-113683fcc49a-1701259227.mp4",
+                    "ID": "369859305492311",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349220733_24065317046400527_2764189404813934398_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=yQccWSYnoIkAX_kdy-V&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTT-GfHhZtlgVTTpi6coTbhRsiFXAyRlkmeKiXLpYvaDA&oe=656B9159",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348446986_6077579505670484_1905012093976849507_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=6JL9gEMEvwUAX8v5NnA&_nc_ht=scontent.xx&oh=03_AdRSZT4xab2-obywPF554lLCGzvWBcXKhngJNMAXEwmX2A&oe=6568FBF1&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 13000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349220733_24065317046400527_2764189404813934398_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=yQccWSYnoIkAX_kdy-V&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTT-GfHhZtlgVTTpi6coTbhRsiFXAyRlkmeKiXLpYvaDA&oe=656B9159"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "[🌐] 𝗖𝗔̣̂𝗣 𝗡𝗛𝗔̣̂𝗧 𝗡𝗛𝗢́𝗠 [🌐]\nSen Thanh🌇🌆🏙️🌃 đã rời khỏi nhóm.",
+            "time": "29/11/2023 22:05:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "[🥲]→ Tạm biệt Sen Thanh🌇🌆🏙️🌃 đã rời khỏi nhóm !!!\n[🌐]→ Url facebook: m.me/100014811933322\n[✅]→ Cảm ơn cậu Sen Thanh🌇🌆🏙️🌃 đã đồng hành cùng chúng tôi trong thời gian qua\n◆━━━━━━━━━━━━━◆\n[⏰]→ Time out nhóm: buổi tối || 29/11/2023 || 22:05:9\n[🗓]→ Ngày outout: 29/11/2023",
+            "time": "29/11/2023 22:05:19",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-6aabd2f2-916e-46d0-82b7-acf2dc6fad07-1701270317.mp4",
+                    "ID": "653175690349547",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345238569_5588383897928033_1157124331310982778_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=bB1gKP-ZLMcAX-pdm_C&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSpkBZnuwnXOg4ahH8stY4sylQNnTtYbU4oBdRees6TpQ&oe=656C3E39",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/405225597_6908587622527603_1715372000011799725_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=QU0ZaHvUFiIAX_CZe3_&_nc_ht=scontent.xx&oh=03_AdTezA5lkO-j8eR6KhFPjVHqSvBpDuIjB2vL8e4pFxKWXA&oe=65694A11&dl=1",
+                    "width": 720,
+                    "height": 1280,
+                    "duration": 9000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/345238569_5588383897928033_1157124331310982778_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=bB1gKP-ZLMcAX-pdm_C&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSpkBZnuwnXOg4ahH8stY4sylQNnTtYbU4oBdRees6TpQ&oe=656C3E39"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 23:00:00 (29/11/2023) (Wednesday)\n🧸𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝗰𝗵𝗶𝗲̂̀𝘂 đ𝗮̂̀𝘆 𝗻𝗮̆𝗻𝗴 𝗹𝘂̛𝗼̛̣𝗻𝗴\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Anh ơi trà sữa em mời\nNhưng anh phải hứa cả đời thương em.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 28 𝗽𝗵𝘂́𝘁 15 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "29/11/2023 23:00:14",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-1b5f0dfa-90cd-4588-b773-f01ca1be1693-1701273612.mp4",
+                    "ID": "365059022669250",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350374255_6060179330778539_1610956538168117809_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=LPLO3j5PYdcAX-YwP5I&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT1XXT4iETLQy_7KFGb1i0I3g2x_nBNiKFkTB4knbbpkw&oe=656BBFAC",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348853012_9754321424585811_7819009497136041516_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=n5-i-BLxMTkAX8pTVIk&_nc_ht=scontent.xx&oh=03_AdTYSBkyU6xIa0prFV9HlNN5J8M2I_6eNTUQnUOUH5-i3Q&oe=6568D0F8&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 20000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350374255_6060179330778539_1610956538168117809_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=LPLO3j5PYdcAX-YwP5I&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT1XXT4iETLQy_7KFGb1i0I3g2x_nBNiKFkTB4knbbpkw&oe=656BBFAC"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "=== Top 10 Tương Tác Ngày ===\n1. Ma Văn Tí 🌊🐳🌊 (48)\n2. Nguyen Duy Tuan iu gai lul mup (20)\n3. Nguyễn Hữu Nhật Nguyên (16)\n4. Shadow (11)\n5. Lê Tuấn Vỹ 🧸💤 (5)\n6. 𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏 (5)\n7. 𝐷𝑢𝑦 𝑄𝑢𝑜̂́𝑐 (4)\n8. Duy Quốc 󱢏 (4)\n9. Ren Zii (3)\n10. ʚTờ Nờ Tờɞ (2)",
+            "time": "30/11/2023 00:00:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "🔔====𝗧𝗛𝗢̂𝗡𝗚 𝗕𝗔́𝗢====🔔\n━━━━━━━━━━━━━━━━━━\n💸 ==== [ 𝗧𝗛𝗨𝗘̂ 𝗕𝗢𝗧 ] ==== 💸\n➝ 𝗧𝗵𝘂𝗲̂ 𝗕𝗼𝘁 5𝟬𝗸/𝘁𝗵\n➝ Đ𝘂̛𝗼̛̣𝗰 𝘁𝗮𝗴 𝘁𝗮̂́𝘁 𝗰𝗮̉ 𝗯𝗼𝘅 𝗸𝗲̂̉ 𝗰𝗮̉ 𝗱𝘂̛𝗼̛́𝗶 𝟭𝟬 𝗻𝗴𝘂̛𝗼̛̀𝗶\n➝ 𝗗𝘂̀𝗻𝗴 đ𝘂̛𝗼̛̣𝗰 𝗺𝗼̣̂𝘁 𝘀𝗼̂́ 𝗹𝗲̣̂𝗻𝗵 𝗔𝗱𝗺𝗶𝗻\n━━━━━━━━━━━━━━━━━━\n⚜️ ==== [ 𝗠𝗨̛𝗢̛̣𝗡 𝗕𝗢𝗧 ] ==== ⚜️\n➝ 𝗬𝗲̂𝘂 𝗰𝗮̂̀𝘂 𝗻𝗵𝗼́𝗺 𝘁𝗿𝗲̂𝗻 𝟰𝟬 𝘁𝗵𝗮̀𝗻𝗵 𝘃𝗶𝗲̂𝗻\n➝ 𝗧𝘂̛̣ 𝗱𝘂̀𝗻𝗴 𝗹𝗮̂𝘂 𝗵𝘂̛𝗼̛́𝗻𝗴 𝗱𝗮̂̃𝗻 𝗰𝗵𝗼 𝗯𝗶𝗲̂́𝘁 𝘀𝘂̛̉ 𝗱𝘂̣𝗻𝗴 𝗹𝗲̣̂𝗻𝗵 𝗺𝗼̛́𝗶\n━━━━━━━━━━━━━━━━━━\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "30/11/2023 00:00:55",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-13d7dcea-eea7-45bc-ad5a-567bce63fb88-1701277248.mp4",
+                    "ID": "1325435608176682",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393650_6276256635784747_7441886391533825412_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=1e105a&_nc_ohc=SPNp2OyWF7sAX_uAjZD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTTG2uYDHpoHWC7bcabfMJjAbpP9xybjIGfBLNNxy2zIw&oe=656C1A6E",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348816453_6408748625838210_8573080566313320994_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=A9i9YaTMnAkAX_ZZLIH&_nc_ht=scontent.xx&oh=03_AdQz5ZGbbUC8_IsxRpyMizgv5WRCa6vu4LoUjStk4ruF_g&oe=656934FD&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 20000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393650_6276256635784747_7441886391533825412_n.jpg?stp=dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=1e105a&_nc_ohc=SPNp2OyWF7sAX_uAjZD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTTG2uYDHpoHWC7bcabfMJjAbpP9xybjIGfBLNNxy2zIw&oe=656C1A6E"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== [ 𝗔𝗨𝗧𝗢 𝗥𝗘𝗦𝗧𝗔𝗥𝗧 ] ====\n━━━━━━━━━━━━━━━━━━\n→ 𝗔𝗿𝗮 𝗔𝗿𝗮 ⚜️ 𝗯𝗮̂𝘆 𝗴𝗶𝗼̛̀ 𝗹𝗮̀: 01:00:20 (30/11/2023) (Thursday) ⏰\n→ 𝗕𝗢𝗧 𝗦𝗲̃ 𝘁𝗶𝗲̂́𝗻 𝗵𝗮̀𝗻𝗵 𝗿𝗲𝘀𝗲𝘁 𝗹𝗮̣𝗶 𝗵𝗲̣̂ 𝘁𝗵𝗼̂́𝗻𝗴 💻 𝗻𝗵𝗮 𝗰𝗮́𝗰 𝗯𝗮̣𝗻 , 𝗰𝗵𝗼̛̀ 𝘁𝗶́",
+            "time": "30/11/2023 01:00:33",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-cdc4e84b-6cf8-4dad-8dc5-f2767673348d-1701280830.mp4",
+                    "ID": "1050059232906235",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/344577561_5881537465306087_3402445387541065699_n.jpg?stp=dst-jpg_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ULk1WyiVP-YAX8WlN0A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSsDRMwXQ_qvcXtRFF5TdyJb8z0UI4ML3eI0sry97DzTg&oe=656D39E3",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348830903_6178437078932093_4618651654355505359_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=1szg6yciqPsAX_3mhYg&_nc_ht=scontent.xx&oh=03_AdS_3kh1medOLbCchhA7rHSBDaS24ZguXyrEWELP8yL06Q&oe=65691217&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 14000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/344577561_5881537465306087_3402445387541065699_n.jpg?stp=dst-jpg_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=1e105a&_nc_ohc=ULk1WyiVP-YAX8WlN0A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSsDRMwXQ_qvcXtRFF5TdyJb8z0UI4ML3eI0sry97DzTg&oe=656D39E3"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 05:00:01 (30/11/2023) (Thursday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Anh bận tất cả mọi điều.\nNhưng vẫn luôn rảnh để nhớ đến em.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 24 𝗽𝗵𝘂́𝘁 47 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "30/11/2023 05:00:22",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-ffdab24a-da13-44e8-b231-0324ae954089-1701295219.mp4",
+                    "ID": "24280868378195291",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350360272_6213444865407591_1226860336403234422_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=pOXXiHKOVGQAX983Eb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSiuCh6dSCYgLMY6dlOaVhtHc3IMpbZkJk8l1IkOpXLbA&oe=656BE850",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/349935447_6528062467237270_7424450330725266930_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=C8NNssetv8UAX8ay6f3&_nc_ht=scontent.xx&oh=03_AdS3TKrhl8asAqRiO5xQTI4hr1RI_CzVcX_ybIKrkUW8iQ&oe=6569377D&dl=1",
+                    "width": 480,
+                    "height": 852,
+                    "duration": 13000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/350360272_6213444865407591_1226860336403234422_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=pOXXiHKOVGQAX983Eb9&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSiuCh6dSCYgLMY6dlOaVhtHc3IMpbZkJk8l1IkOpXLbA&oe=656BE850"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "[⚜️]➜ Thời tiết tại Ho Chi Minh City, Vietnam\nThursday 2023-11-30\n[⚜️]➜ Nhiệt độ: 25°C\n[⚜️]➜ Mô tả: Mostly Clear\n[⚜️]➜ Độ ẩm: 97\n[⚜️]➜ Hướng gió: 5 km/h Northwest\n[⚜️]➜ Ghi nhận lúc: 05:12:39 từ đài phát thanh trên Hồ Chí Minh",
+            "time": "30/11/2023 06:00:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 06:00:02 (30/11/2023) (Thursday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Người ta dính phốt ngoại tình. Còn tôi dính phốt một mình lâu năm.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 25 𝗽𝗵𝘂́𝘁 49 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "30/11/2023 06:00:28",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-07d49f8e-aac0-46bb-a468-0e15eae90fad-1701298826.mp4",
+                    "ID": "3227715650865357",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393785_7064043936955597_7585421898720633915_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=EzJFUHhDwgcAX9IVUr4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSEnasMtWeJe1EKtcGsUE7NQGQT3EkMjRKKjyPX9Fqdsw&oe=656D8044",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348993647_9252496518154732_2691453528828353797_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=CiGc2onC-TEAX9nm9k2&_nc_ht=scontent.xx&oh=03_AdQhzHswwVJF-c7a71mlhPWEI-pE9igBOxHuKsW1JJYdrg&oe=6569BB92&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 9000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393785_7064043936955597_7585421898720633915_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=EzJFUHhDwgcAX9IVUr4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSEnasMtWeJe1EKtcGsUE7NQGQT3EkMjRKKjyPX9Fqdsw&oe=656D8044"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "🔔====𝗧𝗛𝗢̂𝗡𝗚 𝗕𝗔́𝗢====🔔\n━━━━━━━━━━━━━━━━━━\n💸 ==== [ 𝗧𝗛𝗨𝗘̂ 𝗕𝗢𝗧 ] ==== 💸\n➝ 𝗧𝗵𝘂𝗲̂ 𝗕𝗼𝘁 5𝟬𝗸/𝘁𝗵\n➝ Đ𝘂̛𝗼̛̣𝗰 𝘁𝗮𝗴 𝘁𝗮̂́𝘁 𝗰𝗮̉ 𝗯𝗼𝘅 𝗸𝗲̂̉ 𝗰𝗮̉ 𝗱𝘂̛𝗼̛́𝗶 𝟭𝟬 𝗻𝗴𝘂̛𝗼̛̀𝗶\n➝ 𝗗𝘂̀𝗻𝗴 đ𝘂̛𝗼̛̣𝗰 𝗺𝗼̣̂𝘁 𝘀𝗼̂́ 𝗹𝗲̣̂𝗻𝗵 𝗔𝗱𝗺𝗶𝗻\n━━━━━━━━━━━━━━━━━━\n⚜️ ==== [ 𝗠𝗨̛𝗢̛̣𝗡 𝗕𝗢𝗧 ] ==== ⚜️\n➝ 𝗬𝗲̂𝘂 𝗰𝗮̂̀𝘂 𝗻𝗵𝗼́𝗺 𝘁𝗿𝗲̂𝗻 𝟰𝟬 𝘁𝗵𝗮̀𝗻𝗵 𝘃𝗶𝗲̂𝗻\n➝ 𝗧𝘂̛̣ 𝗱𝘂̀𝗻𝗴 𝗹𝗮̂𝘂 𝗵𝘂̛𝗼̛́𝗻𝗴 𝗱𝗮̂̃𝗻 𝗰𝗵𝗼 𝗯𝗶𝗲̂́𝘁 𝘀𝘂̛̉ 𝗱𝘂̣𝗻𝗴 𝗹𝗲̣̂𝗻𝗵 𝗺𝗼̛́𝗶\n━━━━━━━━━━━━━━━━━━\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "30/11/2023 06:30:18",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-ad188b6d-6d1c-4b44-97fc-f3d0bfc0e0d9-1701300615.mp4",
+                    "ID": "314411691545971",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393785_7064043936955597_7585421898720633915_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=EzJFUHhDwgcAX9IVUr4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSEnasMtWeJe1EKtcGsUE7NQGQT3EkMjRKKjyPX9Fqdsw&oe=656D8044",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/348993647_9252496518154732_2691453528828353797_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=CiGc2onC-TEAX9nm9k2&_nc_ht=scontent.xx&oh=03_AdQhzHswwVJF-c7a71mlhPWEI-pE9igBOxHuKsW1JJYdrg&oe=6569BB92&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 9000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/349393785_7064043936955597_7585421898720633915_n.jpg?stp=dst-jpg_s640x640&_nc_cat=110&ccb=1-7&_nc_sid=1e105a&_nc_ohc=EzJFUHhDwgcAX9IVUr4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSEnasMtWeJe1EKtcGsUE7NQGQT3EkMjRKKjyPX9Fqdsw&oe=656D8044"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Ma Văn Tí 🌊🐳🌊",
+            "message": "==== 𝗔𝗨𝗧𝗢 𝗦𝗘𝗡𝗗 ====\n━━━━━━━━━━━━━━━━\n➝ 𝗕𝗮̂𝘆 𝗚𝗶𝗼̛̀ 𝗟𝗮̀: 07:00:01 (30/11/2023) (Thursday)\n𝗖𝗵𝘂́𝗰 𝗺𝗼̣𝗶 𝗻𝗴𝘂̛𝗼̛̀𝗶 𝗯𝘂𝗼̂̉𝗶 𝘁𝗿𝘂̛𝗮 𝘃𝘂𝗶 𝘃𝗲̉😋\n💬 𝗖𝗮̂𝘂 𝘁𝗵𝗶́𝗻𝗵:「Mùa đông thì lạnh.\nÁo quần mong manh.\nĐiều em muốn nhất.\nLà gần bên anh.」\n━━━━━━━━━━━━━━━━\n𝗕𝗼𝘁 đ𝗮̃ 𝗼𝗻𝗹𝗶𝗻𝗲 đ𝘂̛𝗼̛̣𝗰: 0 𝗴𝗶𝗼̛̀ 25 𝗽𝗵𝘂́𝘁 1 𝗴𝗶𝗮̂𝘆\n➝ Đ𝗮̂𝘆 𝗹𝗮̀ 𝘁𝗶𝗻 𝗻𝗵𝗮̆́𝗻 𝘁𝘂̛̣ đ𝗼̣̂𝗻𝗴",
+            "time": "30/11/2023 07:00:10",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "4092145291066830",
+                    "filename": "image-4092145291066830",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/393895546_316813277717362_9055302648920340262_n.jpg?stp=cp0_dst-jpg_p34x34&_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=7jNP_7wgiv0AX9pg-DM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQIO4lZwXsuf2-ZurGnIc1uw0pyC6Y3BVrlc0ttwYYHmw&oe=658F508B",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/393895546_316813277717362_9055302648920340262_n.jpg?stp=dst-jpg_p280x280&_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=7jNP_7wgiv0AX9pg-DM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRRLig6l0QExPflh9MrVt2CGFBVaPxAfvpQguFP1ESSoQ&oe=658F508B",
+                    "previewWidth": 280,
+                    "previewHeight": 395,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/393895546_316813277717362_9055302648920340262_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=7jNP_7wgiv0AX9pg-DM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSXPhm-xe_zF_XeIaD0DlTOK4DhbXk9wWatOow9IsAx1w&oe=658F508B",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 677,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/393895546_316813277717362_9055302648920340262_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=7jNP_7wgiv0AX9pg-DM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSXPhm-xe_zF_XeIaD0DlTOK4DhbXk9wWatOow9IsAx1w&oe=658F508B",
+                    "width": 640,
+                    "height": 903,
+                    "name": "image-4092145291066830"
+                }
+            ]
+        }
+    ],
+    "100048487206690": [
+        {
+            "type": "message",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "oge cảm ơn",
+            "time": "26/11/2023 11:23:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "đang lập web sub",
+            "time": "26/11/2023 11:23:39",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "",
+            "time": "26/11/2023 11:28:49",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "222634074186282",
+                    "filename": "image-222634074186282",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/370244806_222634077519615_8834223309112381945_n.png?stp=cp0_dst-png_s50x50&_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=peZq5Whzxj0AX-H13wO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRwlFc2d2aje4HnBncWANPEx6e5p6kk8RdPkqEuenXXUQ&oe=658A4AC4",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/370244806_222634077519615_8834223309112381945_n.png?stp=dst-png_p280x280&_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=peZq5Whzxj0AX-H13wO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSik_maXA1JP5kOjxwBnQtO1bmgyFMhl9e3Ia69NnK9kA&oe=658A4AC4",
+                    "previewWidth": 303,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/370244806_222634077519615_8834223309112381945_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=peZq5Whzxj0AX-H13wO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQtN2MUkFfOAVrdqv9ooZMohRSHF3U3sd-5GgIzldM9vA&oe=658A4AC4",
+                    "largePreviewWidth": 340,
+                    "largePreviewHeight": 314,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/370244806_222634077519615_8834223309112381945_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=peZq5Whzxj0AX-H13wO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQtN2MUkFfOAVrdqv9ooZMohRSHF3U3sd-5GgIzldM9vA&oe=658A4AC4",
+                    "width": 340,
+                    "height": 314,
+                    "name": "image-222634074186282"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "này nx",
+            "time": "26/11/2023 11:28:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "img  hộvs",
+            "time": "26/11/2023 11:29:08",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "img",
+            "time": "26/11/2023 11:29:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "https://www.facebook.com/reel/3532345930386349",
+            "time": "26/11/2023 20:39:07",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABcgr7pdQcqSPSA4tGMC9rqeunoS",
+                    "url": null,
+                    "title": "Reel od Ú Siêuu",
+                    "description": "Facebook",
+                    "source": "",
+                    "image": "https://scontent.xx.fbcdn.net/v/t15.5256-10/369667199_206996262282142_8252096593015674159_n.jpg?stp=c0.0.720.720a_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=487f02&_nc_ohc=Lee4NgDXCOUAX9E7rbE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfBTTaEJGoJcV_8DvVobqvJIRdBglk5Z8f9Dbdgh2aZ8Vg&oe=65689FE2",
+                    "width": 200,
+                    "height": 200,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": "https://thrift.facebook.com/",
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": null,
+                    "target": null,
+                    "styleList": [
+                        "messenger_generic_template",
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "Tôi tìm thấy mẫu tuyệt vời này trong CapCut. Hãy nhấn vào liên kết để dùng thử! https://www.capcut.com/t/Zs82yudtP/ intro kết thúc tt",
+            "time": "29/11/2023 13:26:57",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABcgr7pdQcqSSweiF2MGcJUqwPMC",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.capcut.com%2Ft%2FZs82yudtP%2F&h=AT2dL-hKkuFYLuKawtjY0ZcYfkHZ6HHGlv_d2NqG3XSMwHIifibVtMVREwlONOHUg7QR9QNJDEiXOse3yJvrryFlWgKDqeu3-n6ZbWrkHj7BjsLHO5AqU9nAT7tIgedaxZXtqYydudA3VnE&s=1",
+                    "title": "CapCut template: intro kết thúc tt",
+                    "description": "Check out Kim Chou's 🌻[PB]’s template intro kết thúc tt on CapCut. You may also like Tách + Màu by 𝑛𝑔𝑜̂ 𝑛𝑔𝑜̣𝑡 🌽 and GHỆ MIỀN TÂY by Tiến Lợi [Yên]...",
+                    "source": "capcut.com",
+                    "image": "https://external.xx.fbcdn.net/emg1/v/t13/3783068986438232899?url=https%3A%2F%2Fp19-capcutugimg-sign-va.ibyteimg.com%2Ftos-alisg-v-643f9f%2FoYIZetCl3NsyVFws00BDtgAuQTBfCvUAgQAZEm%7Etplv-sehyhbs0wv-resize%3A400%3A400.jpeg%3Frk3s%3D51a218fb%26x-expires%3D1703831215%26x-signature%3DsAegZQyKl9o%252F%252BmzJaZHnEqjqJ1M%253D&fb_obo=1&utld=ibyteimg.com&stp=dst-emg0_q75_s960x960&ccb=13-1&oh=06_AbEk57bMxRBYGzKi1oVghNEw6-BxyXRyzohZ6AxvxJLPfw&oe=656897C1&_nc_sid=da9d5e",
+                    "width": 960,
+                    "height": 960,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.capcut.com%2Ft%2FZs82yudtP%2F&h=AT2dL-hKkuFYLuKawtjY0ZcYfkHZ6HHGlv_d2NqG3XSMwHIifibVtMVREwlONOHUg7QR9QNJDEiXOse3yJvrryFlWgKDqeu3-n6ZbWrkHj7BjsLHO5AqU9nAT7tIgedaxZXtqYydudA3VnE&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gABcgr7pdQcqSSweiF2MGcJUqwPMC"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Hữu Nhật Nguyên",
+            "message": "https://www.capcut.com/t/Zs82yudtP/",
+            "time": "29/11/2023 13:27:10",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABcgr7pdQcqSSwfXv2MGcKOV7EoC",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.capcut.com%2Ft%2FZs82yudtP%2F&h=AT3jJ4-304CjML11WpMliGEQ5ZkxeGHIdYQt72pvfN-7L0WLI4aQG6FL7l-buUC5W_mQAd4EbFyTKMfz5DDF-txyqFQI3VPzULn92moiBMzVMlFq-jiOSIrPsc43u7kqc6jDH4579H2QKA4&s=1",
+                    "title": "CapCut template: intro kết thúc tt",
+                    "description": "Check out Kim Chou's 🌻[PB]’s template intro kết thúc tt on CapCut. You may also like Tách + Màu by 𝑛𝑔𝑜̂ 𝑛𝑔𝑜̣𝑡 🌽 and GHỆ MIỀN TÂY by Tiến Lợi [Yên]...",
+                    "source": "capcut.com",
+                    "image": "https://external.xx.fbcdn.net/emg1/v/t13/3783068986438232899?url=https%3A%2F%2Fp19-capcutugimg-sign-va.ibyteimg.com%2Ftos-alisg-v-643f9f%2FoYIZetCl3NsyVFws00BDtgAuQTBfCvUAgQAZEm%7Etplv-sehyhbs0wv-resize%3A400%3A400.jpeg%3Frk3s%3D51a218fb%26x-expires%3D1703831215%26x-signature%3DsAegZQyKl9o%252F%252BmzJaZHnEqjqJ1M%253D&fb_obo=1&utld=ibyteimg.com&stp=dst-emg0_q75_s960x960&ccb=13-1&oh=06_AbEk57bMxRBYGzKi1oVghNEw6-BxyXRyzohZ6AxvxJLPfw&oe=656897C1&_nc_sid=da9d5e",
+                    "width": 960,
+                    "height": 960,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.capcut.com%2Ft%2FZs82yudtP%2F&h=AT3jJ4-304CjML11WpMliGEQ5ZkxeGHIdYQt72pvfN-7L0WLI4aQG6FL7l-buUC5W_mQAd4EbFyTKMfz5DDF-txyqFQI3VPzULn92moiBMzVMlFq-jiOSIrPsc43u7kqc6jDH4579H2QKA4&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gABcgr7pdQcqSSwfXv2MGcKOV7EoC"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        }
+    ],
+    "100090168070553": [
+        {
+            "type": "message",
+            "name": "ʚTờ Nờ Tờɞ",
+            "message": "",
+            "time": "26/11/2023 11:30:54",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=fc3f23&_nc_ohc=OaHxmolYtZUAX_ac1Z1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfDVgOcEDQ2O0xG3sib4Nghb2xtRqFSRAGOZOTwXOv0-vQ&oe=65682E0B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        }
+    ],
+    "100014811933322": [
+        {
+            "type": "message",
+            "name": "Sen Thanh🌇🌆🏙️🌃",
+            "message": "https://www.facebook.com/reel/895159068989286?mibextid=Eb7KZX",
+            "time": "26/11/2023 13:27:11",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gABcgr7pdQcqSO5TGMWMCk92mGke6",
+                    "url": null,
+                    "title": "Reel od Game Clips",
+                    "description": "Facebook",
+                    "source": "",
+                    "image": "https://scontent.xx.fbcdn.net/v/t15.5256-10/404164762_6324549644317113_5476949883772102410_n.jpg?stp=c0.0.576.576a_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=487f02&_nc_ohc=WrRO1jyHkroAX--SsVE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfBDm93XC1T-p-cD6y2cVNTQw-BCnhAJoNOWSXcbmdRh1g&oe=6566FD38",
+                    "width": 200,
+                    "height": 200,
+                    "playable": false,
+                    "duration": 0,
+                    "playableUrl": "https://thrift.facebook.com/",
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": null,
+                    "target": null,
+                    "styleList": [
+                        "messenger_generic_template",
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Sen Thanh🌇🌆🏙️🌃",
+            "message": "",
+            "time": "26/11/2023 17:03:28",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=fc3f23&_nc_ohc=OaHxmolYtZUAX_ac1Z1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfDVgOcEDQ2O0xG3sib4Nghb2xtRqFSRAGOZOTwXOv0-vQ&oe=65682E0B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        }
+    ],
+    "100004458484369": [
+        {
+            "type": "message",
+            "name": "Lê Tuấn Vỹ 🧸💤",
+            "message": "Tiêu Đề: Jungles can't resist the temptations.\n#reelsfb #fbreels #TahmKench #missfortune #missfortunecosplay #velkoz #SKTT1 #SKTFaker #pinkward #lotyler #tyler1 #league_of_legends #Yassuo #leagueofmemes #leagueoflegends #leagueoflegendsplays #leagueoflegendsedit #LeagueofLegendsWildRift  #funnyreels #LOLPH  #LOLWR  #funnylol  #reelsviral #reelsfypシ #reelsvideo #reels #reelit #adsonreels",
+            "time": "26/11/2023 13:27:21",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-ed3ae7ff-ef19-4ade-bdb0-d2a6c642250d-1700980040.mp4",
+                    "ID": "764997118815764",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/405816221_6936688809718858_1488346461704510009_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=_TGvMVVpGR4AX-_bsht&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQEhyrjqK6FOWKcTqJfhEj4mJdB7i98MD39za9vTdlPsw&oe=6567948F",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/404927590_6914115795372745_5269308009732223565_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=GNiXMXuV6twAX_F3Va1&_nc_ht=scontent.xx&oh=03_AdS522_IPe1Ol3wwystd150B8a2H5y_EFLOzZ8v2gQ7nWQ&oe=6564B565&dl=1",
+                    "width": 576,
+                    "height": 1024,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/405816221_6936688809718858_1488346461704510009_n.jpg?stp=dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=1e105a&_nc_ohc=_TGvMVVpGR4AX-_bsht&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQEhyrjqK6FOWKcTqJfhEj4mJdB7i98MD39za9vTdlPsw&oe=6567948F"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Lê Tuấn Vỹ 🧸💤",
+            "message": "Tiêu Đề: Còn gì khó hơn không 🤔😹 #u_sieu",
+            "time": "26/11/2023 20:40:48",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-3085e9bd-6e6f-4e9a-845a-1a74217a0541-1701006046.mp4",
+                    "ID": "2029514337426098",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/368432250_6783743775050755_5153931188027855269_n.jpg?stp=dst-jpg_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=1e105a&_nc_ohc=wblQGp3zdl0AX-_cdlu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTu12skgIhQw6E6w355f9J89Qw5JFnfwOfeAaAOQ1hx5w&oe=65692A23",
+                    "previewWidth": 360,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/388912399_6664665433618971_1004989889516611069_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=YoizOjbylwUAX-4Kubb&_nc_ht=scontent.xx&oh=03_AdTlOuOrpDjr8ToQ85RhwHvP-SneAonUin0D0SfE5TZkUA&oe=6564C67E&dl=1",
+                    "width": 720,
+                    "height": 1280,
+                    "duration": 47000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/368432250_6783743775050755_5153931188027855269_n.jpg?stp=dst-jpg_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=1e105a&_nc_ohc=wblQGp3zdl0AX-_cdlu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTu12skgIhQw6E6w355f9J89Qw5JFnfwOfeAaAOQ1hx5w&oe=65692A23"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Lê Tuấn Vỹ 🧸💤",
+            "message": "Tiêu Đề: 🤤 phê~",
+            "time": "29/11/2023 10:16:25",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-a725a03d-80ae-4aa0-aa08-116c2d91a000-1701227783.mp4",
+                    "ID": "369122895623896",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/370228729_7041753452557227_2831972893665438169_n.jpg?stp=dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=1e105a&_nc_ohc=FRIRP_aGkMoAX9-LZIK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRQ6BsTFEcnruXTDliLTuuQWDK5mcZBRjgFB1qvZN6CLg&oe=656B918B",
+                    "previewWidth": 361,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/406084313_24324712173810801_5729941890031016113_n.mp4?_nc_cat=101&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=jx4a74D3lVIAX-9h7iJ&_nc_ht=scontent.xx&oh=03_AdSTy9nznQMX-sfjo1CkfYdJHmW92PNrOCMUuXmT3awtCA&oe=6568872D&dl=1",
+                    "width": 460,
+                    "height": 816,
+                    "duration": 11000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/370228729_7041753452557227_2831972893665438169_n.jpg?stp=dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=1e105a&_nc_ohc=FRIRP_aGkMoAX9-LZIK&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRQ6BsTFEcnruXTDliLTuuQWDK5mcZBRjgFB1qvZN6CLg&oe=656B918B"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Lê Tuấn Vỹ 🧸💤",
+            "message": "→ Tiêu Đề: intro kết thúc tt\n→ Description : chỉ cần thay chữ là được nha #end#thuyettrinh\n→ Lượt Dùng : 47",
+            "time": "29/11/2023 13:27:19",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-2426689e-e797-4dd9-8b3c-e75446fe4893-1701239237.mp4",
+                    "ID": "332574709498256",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404321716_24397257783223582_4844587405831630750_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=19sDgbFv-O8AX9HAa2_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSUg4fuYO7aJoQ3z9era8rSiTp5SkDpx3rzL0UZlLAlVA&oe=656B4198",
+                    "previewWidth": 640,
+                    "previewHeight": 360,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/406040143_6782508525138242_2362138179754618502_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=oA1nWbRS148AX857hmT&_nc_ht=scontent.xx&oh=03_AdRf6TkHpiO0WVbnNSdkkk_P5nN3k39kidGJCPLtwp7Low&oe=65683B06&dl=1",
+                    "width": 1280,
+                    "height": 720,
+                    "duration": 6000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/404321716_24397257783223582_4844587405831630750_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=19sDgbFv-O8AX9HAa2_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSUg4fuYO7aJoQ3z9era8rSiTp5SkDpx3rzL0UZlLAlVA&oe=656B4198"
+                }
+            ]
+        }
+    ],
+    "100068094188928": [
+        {
+            "type": "message",
+            "name": "Phùng Tuấn Hải 󰟯 󰟪 󰟤 󰟬 󰟰 󰟷 󰟺 󰟵 󰟫 󰟱 󰂆 󰂆 󰥰 󰥱 󰥲 󰥳 󰥴 󰥵 󰥶 󰥷 󰥸 󰥹 󰥺 󰥻 󰥼 󰥽 󰥾 󰥿 󰦀 󰦁 󰦂 󰦃 󰦄 󰦅 󰦆 󰦇 󰦈 󰦉 󰦊 󰦋 󰦌 󰦍 󰦎 󰦎 󰦏 󰦐 󰦑 󰦒 󰦓 󰦔 󰦕 󰦖 󰦗 󰟯 󰟪 󰟤 󰟬 󰟰 󰟷 󰟺 󰟵 󰟫 󰟱 󰥰 󰥱 󰥲 󰥳 󰥴 󰥵 󰥶 󰥷 󰥸 󰥹 󰥺 󰥻 󰥼 󰥽 󰥾 󰥿 󰦀 󰦁 󰦂 󰦃 󰦄 󰦅 󰦆 󰦇 󰦈 󰦉 󰦊 󰦋 󰦌 󱢏",
+            "message": "=== 『 𝗖𝗔̣̂𝗣 𝗡𝗛𝗔̣̂𝗧 𝗡𝗛𝗢́𝗠 』 ====\n━━━━━━━━━━━━━━━━━━\n➝ Nguyen Duy Tuan iu gai lul mup đã đặt biệt danh của anh ấy là > ' < ndtuan.\n➝ 𝗩𝗮̀𝗼 𝗹𝘂́𝗰: 27/11/2023 || 10:10:55 || 𝐓𝐡𝐮̛́ 𝐇𝐚𝐢",
+            "time": "27/11/2023 10:50:24",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "675426974717646",
+                    "filename": "image-675426974717646",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/323133891_3300069323640396_2574114700758307875_n.jpg?stp=cp0_dst-jpg_p34x34&_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=wzQlrz2NEQ8AX9PMb6E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSB3gOQY5aMnRxK6TkylGeSaBHa_TnAsYbqLlm1OFsFJg&oe=658B8BB6",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/323133891_3300069323640396_2574114700758307875_n.jpg?stp=dst-jpg_p280x280&_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=wzQlrz2NEQ8AX9PMb6E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT9eY0WDm72h1pp5YIIUAqPe-MzXDwTJIVw7HaNqeXgHg&oe=658B8BB6",
+                    "previewWidth": 498,
+                    "previewHeight": 280,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/323133891_3300069323640396_2574114700758307875_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=wzQlrz2NEQ8AX9PMb6E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRCZFejyvj8Scfia2yvxn1cnuyKhm780mfTpLQSgTFC_A&oe=658B8BB6",
+                    "largePreviewWidth": 800,
+                    "largePreviewHeight": 450,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/323133891_3300069323640396_2574114700758307875_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=wzQlrz2NEQ8AX9PMb6E&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRCZFejyvj8Scfia2yvxn1cnuyKhm780mfTpLQSgTFC_A&oe=658B8BB6",
+                    "width": 800,
+                    "height": 450,
+                    "name": "image-675426974717646"
+                }
+            ]
+        }
+    ]
+}

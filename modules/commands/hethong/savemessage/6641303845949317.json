@@ -1,0 +1,257 @@
+{
+    "100083897637232": [
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/ad",
+            "time": "18/09/2023 04:36:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/help ad",
+            "time": "18/09/2023 04:36:09",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/ad all",
+            "time": "18/09/2023 04:36:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/menu",
+            "time": "18/09/2023 04:36:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/check tt",
+            "time": "18/09/2023 04:36:39",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/menu all",
+            "time": "18/09/2023 04:37:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/ad 10000000",
+            "time": "18/09/2023 04:37:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/help ad",
+            "time": "18/09/2023 04:37:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/ad set 1000000",
+            "time": "18/09/2023 04:38:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/taixiu tài 10000",
+            "time": "18/09/2023 04:38:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/check",
+            "time": "18/09/2023 04:38:36",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/check tt",
+            "time": "18/09/2023 04:38:51",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/check all",
+            "time": "18/09/2023 04:43:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/menu",
+            "time": "18/09/2023 11:57:20",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "Unl nhanh ghê",
+            "time": "21/09/2023 11:17:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "",
+            "time": "21/09/2023 18:11:31",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=Ug-GGddpjM4AX952wZR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfBoecjNW8Vs0DxJzZfh_wMlgKWtv_WR9oAyTp_raf3zbA&oe=65112B0B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Hoàng Anh Tuấn",
+            "message": "/",
+            "time": "21/09/2023 18:11:33",
+            "attachment": []
+        }
+    ],
+    "100013942628281": [
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/",
+            "time": "18/09/2023 07:25:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/check",
+            "time": "18/09/2023 07:25:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/tt",
+            "time": "18/09/2023 07:25:18",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Vǎn Ťħuận",
+            "message": "quên sửa ảnh r",
+            "time": "18/09/2023 07:25:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/duyetbox on",
+            "time": "18/09/2023 07:25:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/duyetbox",
+            "time": "18/09/2023 07:25:41",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/duyetbox",
+            "time": "18/09/2023 07:25:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/cmd l ai",
+            "time": "18/09/2023 20:51:47",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/cmd l taixiu",
+            "time": "18/09/2023 20:56:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/im lặng",
+            "time": "19/09/2023 19:33:18",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/",
+            "time": "19/09/2023 19:33:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "prefix",
+            "time": "20/09/2023 08:02:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/",
+            "time": "20/09/2023 17:09:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "upt",
+            "time": "21/09/2023 11:17:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "/",
+            "time": "21/09/2023 11:30:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Vǎn Ťħuận",
+            "message": "@Hoàng Anh Tuấn ?",
+            "time": "21/09/2023 11:30:48",
+            "attachment": []
+        }
+    ]
+}

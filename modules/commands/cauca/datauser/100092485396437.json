@@ -1,0 +1,20 @@
+{
+    "name": "CuShin Songan",
+    "ID": "100092485396437",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Cá Thách Đấu",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "12:43:26, 7/12/2023"
+}

@@ -1,0 +1,177 @@
+{
+    "total": [
+        {
+            "id": "61550604971224",
+            "count": 0
+        },
+        {
+            "id": "61550955622066",
+            "count": 0
+        },
+        {
+            "id": "100000230609068",
+            "count": 2
+        },
+        {
+            "id": "100012459432332",
+            "count": 0
+        },
+        {
+            "id": "100046638822477",
+            "count": 0
+        },
+        {
+            "id": "100086121772040",
+            "count": 0
+        },
+        {
+            "id": "100088039526384",
+            "count": 0
+        },
+        {
+            "id": "100088108393704",
+            "count": 0
+        },
+        {
+            "id": "100088785225587",
+            "count": 0
+        },
+        {
+            "id": "100091483235467",
+            "count": 7
+        },
+        {
+            "id": "100091978507120",
+            "count": 0
+        },
+        {
+            "id": "100092199740079",
+            "count": 4
+        }
+    ],
+    "week": [
+        {
+            "id": "61550604971224",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61550955622066",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100000230609068",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100012459432332",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100046638822477",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086121772040",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088039526384",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088108393704",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088785225587",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100091483235467",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100091978507120",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100092199740079",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "61550604971224",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "61550955622066",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100000230609068",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100012459432332",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100046638822477",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100086121772040",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088039526384",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088108393704",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088785225587",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100091483235467",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100091978507120",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100092199740079",
+            "count": 0,
+            "name": "Người dùng facebook"
+        }
+    ],
+    "time": 3
+}

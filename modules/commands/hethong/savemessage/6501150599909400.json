@@ -1,0 +1,404 @@
+{
+    "100011493966093": [
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "",
+            "time": "21/04/2023 21:20:11",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=1CepCvEuzvwAX_U5ZrY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfBmqFKTATlx-Qb0bdH7r4Ej_ruZCeN-b-YIazfEQJHGuw&oe=6447758B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Vui rứa",
+            "time": "21/04/2023 21:20:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "",
+            "time": "21/04/2023 21:20:56",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "1775285602712144",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/14050190_1775285609378810_498900746_n.png?_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=C8_D4G6MYt0AX-r-nZ-&_nc_oc=AQnuwuG2iIJA1BmGGAB8ZDRecI4MxCA-te2KdCvGMBOx_mheK-X29XuSu7hTYmztRvw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfDWdV9GN5gfmbAkSoR6EAdzNtwdSXSNzwZ4E8UU_919aA&oe=644757D9",
+                    "packID": "1775273559380015",
+                    "spriteUrl": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/14050154_1775285606045477_1579572041_n.png?stp=dst-png_p480x480&_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=Q7gTUP50IQAAX9uVZpe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAc1fGz8R1qJ2Ljnv4GDC-u2GVorvGCF9DVdtdfxhMceQ&oe=64481245"
+                    },
+                    "spriteUrl2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/14050154_1775285606045477_1579572041_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=Q7gTUP50IQAAX9uVZpe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfDNr4xSuc0jKupLdRWmVjLBt2wy2KSNUintu6oUriy5KA&oe=64481245"
+                    },
+                    "width": 240,
+                    "height": 240,
+                    "caption": "Dog laughing",
+                    "description": "Dog laughing",
+                    "frameCount": 13,
+                    "frameRate": 83,
+                    "framesPerRow": 4,
+                    "framesPerCol": 4,
+                    "stickerID": "1775285602712144",
+                    "spriteURI": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/14050154_1775285606045477_1579572041_n.png?stp=dst-png_p480x480&_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=Q7gTUP50IQAAX9uVZpe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAc1fGz8R1qJ2Ljnv4GDC-u2GVorvGCF9DVdtdfxhMceQ&oe=64481245"
+                    },
+                    "spriteURI2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/14050154_1775285606045477_1579572041_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=Q7gTUP50IQAAX9uVZpe&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfDNr4xSuc0jKupLdRWmVjLBt2wy2KSNUintu6oUriy5KA&oe=64481245"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Vl :))",
+            "time": "21/04/2023 21:21:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Vl rứa là m chửi t đc th hả",
+            "time": "21/04/2023 21:22:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Vl bí mật rất nhiều tiền :))",
+            "time": "21/04/2023 21:22:41",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Kakaa",
+            "time": "21/04/2023 21:22:54",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Bịp rồi",
+            "time": "21/04/2023 21:22:57",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Cẹc",
+            "time": "21/04/2023 21:24:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Kh chơi nữa",
+            "time": "21/04/2023 21:24:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Xuân Dũng",
+            "message": "Sàm",
+            "time": "21/04/2023 21:24:21",
+            "attachment": []
+        }
+    ],
+    "100013375203759": [
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/say Tâm đẹp trai",
+            "time": "21/04/2023 21:20:22",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/tát @Nguyễn Xuân Dũng",
+            "time": "21/04/2023 21:20:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/dú",
+            "time": "21/04/2023 21:21:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": ":))",
+            "time": "21/04/2023 21:21:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/kiss",
+            "time": "21/04/2023 21:21:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/kiss @Nguyễn Xuân Dũng",
+            "time": "21/04/2023 21:21:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "Nó có nhiều chức năng lắm",
+            "time": "21/04/2023 21:21:39",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyễn Minh Tâm",
+            "message": "Có t mới dc dùng thôi",
+            "time": "21/04/2023 21:21:44",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "",
+            "time": "21/04/2023 21:21:46",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "577501519002559",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851559_577510682334976_854118530_n.png?_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=61kToWZEnpMAX_K8Htk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAzstUf9v49iU9CwfhL9Pqd3ushJpib_zx8_yoFeIAU7w&oe=64487D02",
+                    "packID": "497126107040101",
+                    "spriteUrl": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?stp=dst-png_p240x240&_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCeZD6oOoiy20gkxfn4IesbzGE9SsLtJiwOuFC9S_ETIg&oe=6447269A"
+                    },
+                    "spriteUrl2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCY30az52qZJkICBkFvUzVKU4NdPsWihp_lRuKG4tNO1g&oe=6447269A"
+                    },
+                    "width": 240,
+                    "height": 240,
+                    "caption": "Laughing, dog rolling on floor and laughing",
+                    "description": "Laughing, dog rolling on floor and laughing",
+                    "frameCount": 4,
+                    "frameRate": 83,
+                    "framesPerRow": 2,
+                    "framesPerCol": 2,
+                    "stickerID": "577501519002559",
+                    "spriteURI": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?stp=dst-png_p240x240&_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCeZD6oOoiy20gkxfn4IesbzGE9SsLtJiwOuFC9S_ETIg&oe=6447269A"
+                    },
+                    "spriteURI2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCY30az52qZJkICBkFvUzVKU4NdPsWihp_lRuKG4tNO1g&oe=6447269A"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "Nhìn nè",
+            "time": "21/04/2023 21:21:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/phantich @Nguyễn Xuân Dũng",
+            "time": "21/04/2023 21:22:04",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": ":))",
+            "time": "21/04/2023 21:22:15",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "Bấy lâu nay mới biết m hay ăn cắp vặt",
+            "time": "21/04/2023 21:22:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "",
+            "time": "21/04/2023 21:22:25",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "577501519002559",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851559_577510682334976_854118530_n.png?_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=61kToWZEnpMAX_K8Htk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAzstUf9v49iU9CwfhL9Pqd3ushJpib_zx8_yoFeIAU7w&oe=64487D02",
+                    "packID": "497126107040101",
+                    "spriteUrl": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?stp=dst-png_p240x240&_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCeZD6oOoiy20gkxfn4IesbzGE9SsLtJiwOuFC9S_ETIg&oe=6447269A"
+                    },
+                    "spriteUrl2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCY30az52qZJkICBkFvUzVKU4NdPsWihp_lRuKG4tNO1g&oe=6447269A"
+                    },
+                    "width": 240,
+                    "height": 240,
+                    "caption": "Laughing, dog rolling on floor and laughing",
+                    "description": "Laughing, dog rolling on floor and laughing",
+                    "frameCount": 4,
+                    "frameRate": 83,
+                    "framesPerRow": 2,
+                    "framesPerCol": 2,
+                    "stickerID": "577501519002559",
+                    "spriteURI": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?stp=dst-png_p240x240&_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCeZD6oOoiy20gkxfn4IesbzGE9SsLtJiwOuFC9S_ETIg&oe=6447269A"
+                    },
+                    "spriteURI2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCY30az52qZJkICBkFvUzVKU4NdPsWihp_lRuKG4tNO1g&oe=6447269A"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "=))",
+            "time": "21/04/2023 21:22:46",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "Giàu mà giấu",
+            "time": "21/04/2023 21:22:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/menu all",
+            "time": "21/04/2023 21:23:00",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": ".anti nickname",
+            "time": "21/04/2023 21:23:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/anti nickname",
+            "time": "21/04/2023 21:23:27",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "M thử đổi biệt danh đi",
+            "time": "21/04/2023 21:23:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "Nó sẽ xoá ko cho m đổi",
+            "time": "21/04/2023 21:23:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": ":))",
+            "time": "21/04/2023 21:23:59",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/setname @Nguyễn Xuân Dũng Dũng Béo",
+            "time": "21/04/2023 21:24:05",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/anti out",
+            "time": "21/04/2023 21:24:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "M làm gr có cái này dui",
+            "time": "21/04/2023 21:24:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "",
+            "time": "21/04/2023 21:24:33",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "577501519002559",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851559_577510682334976_854118530_n.png?_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=61kToWZEnpMAX_K8Htk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAzstUf9v49iU9CwfhL9Pqd3ushJpib_zx8_yoFeIAU7w&oe=64487D02",
+                    "packID": "497126107040101",
+                    "spriteUrl": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?stp=dst-png_p240x240&_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCeZD6oOoiy20gkxfn4IesbzGE9SsLtJiwOuFC9S_ETIg&oe=6447269A"
+                    },
+                    "spriteUrl2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCY30az52qZJkICBkFvUzVKU4NdPsWihp_lRuKG4tNO1g&oe=6447269A"
+                    },
+                    "width": 240,
+                    "height": 240,
+                    "caption": "Laughing, dog rolling on floor and laughing",
+                    "description": "Laughing, dog rolling on floor and laughing",
+                    "frameCount": 4,
+                    "frameRate": 83,
+                    "framesPerRow": 2,
+                    "framesPerCol": 2,
+                    "stickerID": "577501519002559",
+                    "spriteURI": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?stp=dst-png_p240x240&_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCeZD6oOoiy20gkxfn4IesbzGE9SsLtJiwOuFC9S_ETIg&oe=6447269A"
+                    },
+                    "spriteURI2x": {
+                        "uri": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851593_577510689001642_539400903_n.png?_nc_cat=1&ccb=1-7&_nc_sid=0572db&_nc_ohc=hHD23DAtduoAX9DXlyM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCY30az52qZJkICBkFvUzVKU4NdPsWihp_lRuKG4tNO1g&oe=6447269A"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Minh Tâm",
+            "message": "/flop",
+            "time": "21/04/2023 21:24:37",
+            "attachment": []
+        }
+    ]
+}

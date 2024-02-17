@@ -1,0 +1,560 @@
+{
+    "100034776984119": [
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!menu",
+            "time": "08/12/2023 14:14:14",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!4",
+            "time": "08/12/2023 17:46:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!gai",
+            "time": "08/12/2023 17:47:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "",
+            "time": "08/12/2023 17:47:01",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "369239263222822",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/39178562_1505197616293642_5411344281094848512_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=fc3f23&_nc_ohc=iKzZaLiAtE8AX8vH-Am&_nc_oc=AQnrwxlsWTWdNYXT5hD-QlspF3szQqhwp_8kGU2HwqGUVn4o6mhqG2CnlNLSX9pH1KI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfBmcin3pOKGCJB9XmhubmdHbIvQrzv2-oFNXBeQuVGUHw&oe=6578000B",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 72,
+                    "height": 72,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 1,
+                    "frameRate": 83,
+                    "framesPerRow": 1,
+                    "framesPerCol": 1,
+                    "stickerID": "369239263222822",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "Gai",
+            "time": "08/12/2023 17:47:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!music",
+            "time": "08/12/2023 17:47:46",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "Music",
+            "time": "08/12/2023 17:48:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!menu",
+            "time": "08/12/2023 17:48:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!10",
+            "time": "08/12/2023 17:48:42",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "Gai",
+            "time": "08/12/2023 17:49:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!1",
+            "time": "08/12/2023 17:50:33",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!3",
+            "time": "08/12/2023 17:50:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "Gai",
+            "time": "08/12/2023 17:50:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "1",
+            "time": "08/12/2023 17:51:36",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!4",
+            "time": "08/12/2023 17:52:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!10mm",
+            "time": "08/12/2023 17:52:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!sing",
+            "time": "08/12/2023 17:54:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!sing em của ngày hôm qua",
+            "time": "08/12/2023 17:54:39",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!music",
+            "time": "08/12/2023 17:56:02",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!gái",
+            "time": "08/12/2023 17:56:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!gái",
+            "time": "08/12/2023 17:56:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "gai",
+            "time": "08/12/2023 17:58:18",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyen Hanh",
+            "message": "1",
+            "time": "08/12/2023 17:58:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!kbb búa 20000",
+            "time": "08/12/2023 17:59:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!kbb bao 300",
+            "time": "08/12/2023 18:01:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!gay",
+            "time": "08/12/2023 18:02:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!sing đi để trở về",
+            "time": "08/12/2023 18:03:18",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Nguyen Hanh",
+            "message": "2",
+            "time": "08/12/2023 18:03:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!gay",
+            "time": "08/12/2023 18:07:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!sướng",
+            "time": "08/12/2023 18:08:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyen Hanh",
+            "message": "!cướp",
+            "time": "08/12/2023 18:08:48",
+            "attachment": []
+        }
+    ],
+    "100049918652877": [
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "Không",
+            "time": "08/12/2023 17:46:58",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "10",
+            "time": "08/12/2023 17:48:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!NEW",
+            "time": "08/12/2023 17:49:08",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "",
+            "time": "08/12/2023 17:50:55",
+            "attachment": [
+                {
+                    "type": "photo",
+                    "ID": "6689903684449587",
+                    "filename": "image-6689903684449587",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/406373838_363966296162619_8325540613695620180_n.jpg?stp=cp0_dst-jpg_s50x50&_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=7PKE4wCn31EAX96uszn&_nc_oc=AQkvyeAqPxoB2-9aBNX6_lyAwUmPFEubsHe1GeRPYSZi7VCLlNLf-cqQT_j2ttqsM0o&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSZYL1HM7Jdw1Cwhy1NTVhwG1h2aNgUGvwisdiS0vMnlQ&oe=659A77DB",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/406373838_363966296162619_8325540613695620180_n.jpg?stp=dst-jpg_p280x280&_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=7PKE4wCn31EAX96uszn&_nc_oc=AQkvyeAqPxoB2-9aBNX6_lyAwUmPFEubsHe1GeRPYSZi7VCLlNLf-cqQT_j2ttqsM0o&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSywHsZmwXJpDUozs92AwlSSMPDFzd_yM4zv-RimHjiIA&oe=659A77DB",
+                    "previewWidth": 280,
+                    "previewHeight": 448,
+                    "largePreviewUrl": "https://scontent.xx.fbcdn.net/v/t1.15752-9/406373838_363966296162619_8325540613695620180_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=7PKE4wCn31EAX96uszn&_nc_oc=AQkvyeAqPxoB2-9aBNX6_lyAwUmPFEubsHe1GeRPYSZi7VCLlNLf-cqQT_j2ttqsM0o&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTkLJKUNd_bJX0VyVZf-ymW3991d5UOyq1OkOW7xBzfLg&oe=659A77DB",
+                    "largePreviewWidth": 480,
+                    "largePreviewHeight": 769,
+                    "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/406373838_363966296162619_8325540613695620180_n.jpg?stp=dst-jpg_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=7PKE4wCn31EAX96uszn&_nc_oc=AQkvyeAqPxoB2-9aBNX6_lyAwUmPFEubsHe1GeRPYSZi7VCLlNLf-cqQT_j2ttqsM0o&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTkLJKUNd_bJX0VyVZf-ymW3991d5UOyq1OkOW7xBzfLg&oe=659A77DB",
+                    "width": 705,
+                    "height": 1129,
+                    "name": "image-6689903684449587"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "",
+            "time": "08/12/2023 17:51:17",
+            "attachment": [
+                {
+                    "type": "video",
+                    "filename": "video-b1d50b64-f835-47b8-a99b-95ea41743aa6-1702032677.mp4",
+                    "ID": "368168138913224",
+                    "previewUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/393061633_7050107818409280_7770430571442071709_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=fGnWce-CB5YAX9b6PBk&_nc_oc=AQkLSRXfgCocV3fFjZB3VpRq502sGXkxYSMC3U3QZmgpsqNJC6jwNqAuSlTX31ivfQM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTQNxpkc9cT0SFq2KB_I5HS5ugv39ffnhPEzNsuKbVe9w&oe=6578D3A8",
+                    "previewWidth": 359,
+                    "previewHeight": 640,
+                    "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/409142691_6888703664570636_4410220336415187350_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=nKVlAQiT4UcAX-76_TZ&_nc_ht=scontent.xx&oh=03_AdS8f_s-ZgsqOYegsaR_iR_X75iJE2mGneWBpBgs6oZN6g&oe=6574D594&dl=1",
+                    "width": 368,
+                    "height": 656,
+                    "duration": 32000,
+                    "videoType": "file_attachment",
+                    "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.3394-10/393061633_7050107818409280_7770430571442071709_n.jpg?stp=dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=1e105a&_nc_ohc=fGnWce-CB5YAX9b6PBk&_nc_oc=AQkLSRXfgCocV3fFjZB3VpRq502sGXkxYSMC3U3QZmgpsqNJC6jwNqAuSlTX31ivfQM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTQNxpkc9cT0SFq2KB_I5HS5ugv39ffnhPEzNsuKbVe9w&oe=6578D3A8"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!gaicacto",
+            "time": "08/12/2023 17:59:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!gay",
+            "time": "08/12/2023 18:00:03",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!kbb lon 2000000000000",
+            "time": "08/12/2023 18:00:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!bủcu",
+            "time": "08/12/2023 18:09:17",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!búlon",
+            "time": "08/12/2023 18:09:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!cony",
+            "time": "08/12/2023 18:09:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!đầubuồi",
+            "time": "08/12/2023 18:11:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!sub",
+            "time": "08/12/2023 18:11:28",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!búbuồi",
+            "time": "08/12/2023 18:12:07",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!busy",
+            "time": "08/12/2023 18:12:16",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!thôngđít",
+            "time": "08/12/2023 18:12:50",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!hôn",
+            "time": "08/12/2023 18:13:01",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "Dmm",
+            "time": "08/12/2023 18:13:25",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!hôn",
+            "time": "08/12/2023 18:13:32",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!botlồn",
+            "time": "08/12/2023 18:15:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!offbot",
+            "time": "08/12/2023 18:15:30",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyễn Nhật",
+            "message": "!giểtbot",
+            "time": "08/12/2023 18:16:41",
+            "attachment": []
+        }
+    ],
+    "100083628577189": [
+        {
+            "type": "message",
+            "message": "7",
+            "time": "08/12/2023 17:48:27",
+            "attachment": []
+        }
+    ],
+    "100057663051830": [
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "!2",
+            "time": "08/12/2023 17:48:55",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "!6",
+            "time": "08/12/2023 17:49:40",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "10mm",
+            "time": "08/12/2023 17:49:49",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "11",
+            "time": "08/12/2023 17:51:43",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "!gailonmup",
+            "time": "08/12/2023 17:57:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "!sexhungvshien",
+            "time": "08/12/2023 18:00:19",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "game",
+            "time": "08/12/2023 18:01:10",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "/nsfw",
+            "time": "08/12/2023 18:10:48",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "/NSFW/NSFW",
+            "time": "08/12/2023 18:11:06",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "NSFW",
+            "time": "08/12/2023 18:11:12",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "!cony",
+            "time": "08/12/2023 18:11:34",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "/NSFW /NSFW",
+            "time": "08/12/2023 18:12:36",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Záp",
+            "message": "hôn",
+            "time": "08/12/2023 18:12:56",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Záp",
+            "message": "m đùa t à",
+            "time": "08/12/2023 18:13:10",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Záp",
+            "message": ".",
+            "time": "08/12/2023 18:13:15",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "Záp",
+            "message": "m phải chết",
+            "time": "08/12/2023 18:16:23",
+            "attachment": []
+        }
+    ],
+    "100074278195157": [
+        {
+            "type": "message",
+            "name": "𝒒𝒖𝒐𝒄 𝒅𝒖𝒚 𝒗𝒂 𝒏𝒉𝒖𝒏𝒈 𝒏𝒐𝒊 𝒃𝒖𝒐𝒏",
+            "message": "outt",
+            "time": "08/12/2023 18:19:57",
+            "attachment": []
+        }
+    ]
+}

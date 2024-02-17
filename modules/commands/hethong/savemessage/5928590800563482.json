@@ -1,0 +1,93 @@
+{
+    "100078395843087": [
+        {
+            "type": "message",
+            "name": "Nguyên Mai Đình",
+            "message": "Ông nào admin v",
+            "time": "31/07/2023 19:00:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyên Mai Đình",
+            "message": ":)))))))",
+            "time": "31/07/2023 19:04:33",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyên Mai Đình",
+            "message": "Muahahahaha",
+            "time": "01/08/2023 06:13:13",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyên Mai Đình",
+            "message": ".",
+            "time": "02/08/2023 10:19:24",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyên Mai Đình",
+            "message": "",
+            "time": "03/08/2023 00:40:31",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "227878347358915",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851577_246547505491999_862435009_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=TNIY757T3zUAX-cd84y&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfAnmwC3TYuEdsJBnoBq3ByMWkoF0PZ1eyUm_WIQ6wik3Q&oe=64CFF325",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 64,
+                    "height": 64,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 0,
+                    "frameRate": 83,
+                    "framesPerRow": 0,
+                    "framesPerCol": 0,
+                    "stickerID": "227878347358915",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "name": "Nguyên Mai Đình",
+            "message": "Muahahahaha",
+            "time": "04/08/2023 09:49:31",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "Nguyên Mai Đình",
+            "message": "",
+            "time": "05/08/2023 00:37:34",
+            "attachment": [
+                {
+                    "type": "sticker",
+                    "ID": "227878347358915",
+                    "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/851577_246547505491999_862435009_n.png?stp=cp0_dst-png&_nc_cat=1&ccb=1-7&_nc_sid=ac3552&_nc_ohc=6hsNvRBSaNEAX8mxVGE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=00_AfCXdJf6neQ3YQpGl3hpvT3xQvdt3xYwZVjk1hqyJ_RR5w&oe=64D1ED65",
+                    "packID": "227877430692340",
+                    "spriteUrl": null,
+                    "spriteUrl2x": null,
+                    "width": 64,
+                    "height": 64,
+                    "caption": "Like, thumbs up",
+                    "description": "Like, thumbs up",
+                    "frameCount": 0,
+                    "frameRate": 83,
+                    "framesPerRow": 0,
+                    "framesPerCol": 0,
+                    "stickerID": "227878347358915",
+                    "spriteURI": null,
+                    "spriteURI2x": null
+                }
+            ]
+        }
+    ]
+}
